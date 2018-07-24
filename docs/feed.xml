@@ -1,13 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2018-07-19T20:08:09+05:30</updated><id>http://localhost:4000/til/</id><title type="html">TIL</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/til/jekyll/update/2018/07/19/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-07-19T18:34:36+05:30</published><updated>2018-07-19T18:34:36+05:30</updated><id>http://localhost:4000/til/jekyll/update/2018/07/19/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/til/jekyll/update/2018/07/19/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://github.com/oshanz/til/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://github.com/oshanz/til/til/" rel="alternate" type="text/html" /><updated>2018-07-24T18:27:49+05:30</updated><id>http://github.com/oshanz/til/til/</id><title type="html">TIL</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Eigenclass</title><link href="http://github.com/oshanz/til/til/2016/04/08/eigenclass.html" rel="alternate" type="text/html" title="Eigenclass" /><published>2016-04-08T00:00:00+05:30</published><updated>2016-04-08T00:00:00+05:30</updated><id>http://github.com/oshanz/til/til/2016/04/08/eigenclass</id><content type="html" xml:base="http://github.com/oshanz/til/til/2016/04/08/eigenclass.html">&lt;p&gt;http://www.integralist.co.uk/posts/eigenclass.html&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;https://gist.github.com/Integralist/bb8760d11a03c88da151
+1.When creating singleton methods (i.e. def self.foo) Ruby will create an anonymous class to hold these methods. The anonymous class then assumes the role of the object’s class and the original class is re-designated as the superclass of that anonymous class(Eigenclass).&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;private is actually a method&lt;/li&gt;
+  &lt;li&gt;private method only changes the visibility of instance methods&lt;/li&gt;
+  &lt;li&gt;Class methods on the other hand are instance methods of the Eigenclass&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;class Test&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def self.bar
+	puts &quot;bar&quot;
+end
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+def self.foo
+	puts &quot;foo&quot;
+end
+
+private_class_method :foo, :bar
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;end&lt;/p&gt;
+
+&lt;p&gt;Test.bar
+Test.foo&lt;/p&gt;</content><author><name></name></author><summary type="html">http://www.integralist.co.uk/posts/eigenclass.html</summary></entry><entry><title type="html">Git</title><link href="http://github.com/oshanz/til/til/2016/04/05/git.html" rel="alternate" type="text/html" title="Git" /><published>2016-04-05T00:00:00+05:30</published><updated>2016-04-05T00:00:00+05:30</updated><id>http://github.com/oshanz/til/til/2016/04/05/git</id><content type="html" xml:base="http://github.com/oshanz/til/til/2016/04/05/git.html">&lt;p&gt;https://gist.github.com/jbenet/ee6c9ac48068889b0912&lt;/p&gt;
+
+&lt;p&gt;http://nvie.com/posts/a-successful-git-branching-model/&lt;/p&gt;</content><author><name></name></author><summary type="html">https://gist.github.com/jbenet/ee6c9ac48068889b0912</summary></entry><entry><title type="html">Flamegraph</title><link href="http://github.com/oshanz/til/til/2016/04/05/FlameGraph.html" rel="alternate" type="text/html" title="Flamegraph" /><published>2016-04-05T00:00:00+05:30</published><updated>2016-04-05T00:00:00+05:30</updated><id>http://github.com/oshanz/til/til/2016/04/05/FlameGraph</id><content type="html" xml:base="http://github.com/oshanz/til/til/2016/04/05/FlameGraph.html">&lt;p&gt;https://github.com/brendangregg/FlameGraph
+http://www.brendangregg.com/index.html&lt;/p&gt;</content><author><name></name></author><summary type="html">https://github.com/brendangregg/FlameGraph http://www.brendangregg.com/index.html</summary></entry><entry><title type="html">N+1</title><link href="http://github.com/oshanz/til/til/2016/04/04/n+1.html" rel="alternate" type="text/html" title="N+1" /><published>2016-04-04T00:00:00+05:30</published><updated>2016-04-04T00:00:00+05:30</updated><id>http://github.com/oshanz/til/til/2016/04/04/n+1</id><content type="html" xml:base="http://github.com/oshanz/til/til/2016/04/04/n+1.html">&lt;p&gt;“select * from Students”&lt;/p&gt;
+
+&lt;p&gt;“select * from Books where studentId=?”&lt;/p&gt;
+
+&lt;p&gt;Here you have 1 select statement for the student and if you have n number of students you have to fire n more query to select the books. So at the last you have to put n+1 select statement in order to perform this operation.&lt;/p&gt;
+
+&lt;p&gt;Now the next question is how to solve it ?&lt;/p&gt;
+
+&lt;p&gt;Using join fetching(it will join the parent and children and fetch all the information in a single statement) we can able to solve n+1 problem.
+Now our next query will look like this&lt;/p&gt;
+
+&lt;p&gt;“from Students s join fetch s.Books b”&lt;/p&gt;</content><author><name></name></author><summary type="html">“select * from Students”</summary></entry><entry><title type="html">Ampersand Operator</title><link href="http://github.com/oshanz/til/til/2016/04/04/ampersand-operator.html" rel="alternate" type="text/html" title="Ampersand Operator" /><published>2016-04-04T00:00:00+05:30</published><updated>2016-04-04T00:00:00+05:30</updated><id>http://github.com/oshanz/til/til/2016/04/04/ampersand-operator</id><content type="html" xml:base="http://github.com/oshanz/til/til/2016/04/04/ampersand-operator.html">&lt;p&gt;This is how a function call with an ampersand looks like:&lt;/p&gt;
+
+&lt;p&gt;some_function(&amp;amp;an_object)&lt;/p&gt;
+
+&lt;p&gt;When used as shown above, the &amp;amp; operator induces a call to to_proc on the argument, and passes the resulting Proc object (explained in the box below) as a block to the method.&lt;/p&gt;
+
+&lt;p&gt;What’s a Proc?
+A Proc object encapsulates a function or a block in a way that can be passed around in a variable.
+We can initialize a Proc with a block like this:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mult = Proc.new {&lt;/td&gt;
+      &lt;td&gt;x, y&lt;/td&gt;
+      &lt;td&gt;x*y }&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;And then use the call method to invoke the block.&lt;/p&gt;
+
+&lt;p&gt;Therefore,&lt;/p&gt;
+
+&lt;p&gt;mult.call(4, 5)&lt;/p&gt;
+
+&lt;p&gt;returns 20.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is how a function call with an ampersand looks like:</summary></entry></feed>

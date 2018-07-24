@@ -47,3 +47,5 @@ plugins:
 algolia:
   application_id: H60ALQ73CF
   index_name: til
+
+permalink: date

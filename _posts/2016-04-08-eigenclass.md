@@ -8,3 +8,19 @@ https://gist.github.com/Integralist/bb8760d11a03c88da151
 4. Class methods on the other hand are instance methods of the Eigenclass
 
 
+class Test 
+	
+	def self.bar
+		puts "bar"
+	end
+
+	def self.foo
+		puts "foo"
+	end
+	
+	private_class_method :foo, :bar
+
+end
+
+Test.bar
+Test.foo
