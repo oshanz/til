@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2018-07-25T18:07:25+05:30</updated><id>http://localhost:4000/til/</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;h3 id=&quot;open-ended-questions&quot;&gt;Open-ended Questions&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2018-07-25T18:17:00+05:30</updated><id>http://localhost:4000/til/</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;h3 id=&quot;open-ended-questions&quot;&gt;Open-ended Questions&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?”&lt;/li&gt;
@@ -83,57 +83,64 @@
   &lt;li&gt;Assumptionswithinquestions–explicit, implicit, altering; e.g., “How would we approach this problem if we were engineers?&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><summary type="html">Open-ended Questions Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?” Reflective: challenging basic assumptions – “Why do we always do it this way?” “Has this ever been tried?” Probing: Getting more details; going deeper – “Can you elaborate on why this is happening?” Creating connections: asking for systems perspectives – “What will be the consequences of this action?” Exploratory: opening up new avenues and insights that lead to new explorations – “Have you considered such a source?” Analytical: examining cause and effect, not just symptoms – “Why has this happened?” Affective: encouraging sharing of feelings – “How do you feel/how excited are you about this strategy?</summary></entry><entry><title type="html">Aws Cost Optimization</title><link href="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html" rel="alternate" type="text/html" title="Aws Cost Optimization" /><published>2018-07-18T00:00:00+05:30</published><updated>2018-07-18T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/18/aws-cost-optimization</id><content type="html" xml:base="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html">&lt;p&gt;• Cost Explorer&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, 
-    observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, 
+observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• AWS Trusted Advisor&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Get real-time identification of potential areas for optimization.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Get real-time identification of potential areas for optimization.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• AWS Budgets&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Set custom budgets that trigger alerts when cost or usage exceed (or are forecasted to﻿ exceed) a budgeted amount. Budgets can be set based on tags and accounts as well as resource types
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Set custom budgets that trigger alerts when cost or usage exceed (or are forecasted to﻿ exceed) a budgeted amount. Budgets can be set based on tags and accounts as well as resource types&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• Amazon CloudWatch&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Collect and track metrics, monitor log files, set alarms, and automatically react﻿ to changes in AWS resources.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Collect and track metrics, monitor log files, set alarms, and automatically react﻿ to changes in AWS resources.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• AWS CloudTrail&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Log, continuously monitor, and retain account activity related to actions across AWS﻿ infrastructure at low cost.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Log, continuously monitor, and retain account activity related to actions across AWS﻿ infrastructure at low cost.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• Amazon S3 Analytics&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Automated analysis and visualization of Amazon S3 storage patterns to help﻿ you decide when to shift data to a different storage class.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Automated analysis and visualization of Amazon S3 storage patterns to help﻿ you decide when to shift data to a different storage class.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• Cost Optimization Monitor&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Automatically process detailed billing reports to get granular metrics that﻿ can be searched, analyzed, and visualized in a customizable dashboard.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Automatically process detailed billing reports to get granular metrics that﻿ can be searched, analyzed, and visualized in a customizable dashboard.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• EC2 Right Sizing  Analyzer&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    EC2 instance utilization data and receive reporting recommendations for﻿ right sizing EC2 instances. 
-    The tool recommends instances that better match your usage.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;EC2 instance utilization data and receive reporting recommendations for﻿ right sizing EC2 instances. The tool recommends instances that better match your usage.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• AWS Cost and Usage Report&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Granular raw data files detailing your hourly AWS usage across accounts﻿ used for Do-It-Yourself (DIY) analysis 
-    (e.g., determining which S3 bucket is driving data transfer spend).﻿ The AWS Cost and Usage Report has dynamic columns that populate depending on the services you﻿ use.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Granular raw data files detailing your hourly AWS usage across accounts﻿ used for Do-It-Yourself (DIY) analysis (e.g., determining which S3 bucket is driving data transfer spend).﻿ The AWS Cost and Usage Report has dynamic columns that populate depending on the services you﻿ use.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;• Detailed Billing Report&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    This report is similar to the AWS Cost and Usage Report, but it has static﻿ columns. 
-    This report is eventually deprecated. We recommend that you use the AWS Cost and Usage﻿ Report instead.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">• Cost Explorer See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.</summary></entry><entry><title type="html">Facts and fallacies of software engineering</title><link href="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html" rel="alternate" type="text/html" title="Facts and fallacies of software engineering" /><published>2018-07-15T00:00:00+05:30</published><updated>2018-07-15T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/15/Facts%20and%20Fallacies%20of%20Software%20Engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html">&lt;ul&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This report is similar to the AWS Cost and Usage Report, but it has static﻿ columns. This report is eventually deprecated. We recommend that you use the AWS Cost and Usage﻿ Report instead.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">• Cost Explorer See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.</summary></entry><entry><title type="html">Facts and fallacies of software engineering</title><link href="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html" rel="alternate" type="text/html" title="Facts and fallacies of software engineering" /><published>2018-07-15T00:00:00+05:30</published><updated>2018-07-15T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/15/Facts%20and%20Fallacies%20of%20Software%20Engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html">&lt;ul&gt;
   &lt;li&gt;Most of our estimates are more like wishes than realistic targets.&lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.&lt;/p&gt;
@@ -248,16 +255,17 @@
 &lt;p&gt;&lt;a href=&quot;https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&amp;amp;g_medium=&amp;amp;g_campaign=item_&amp;amp;g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial&quot;&gt;https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&amp;amp;g_medium=&amp;amp;g_campaign=item_&amp;amp;g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;heres-how-you-can-start-to-improve-your-teams-engagement&quot;&gt;Here’s how you can start to improve your team’s engagement:&lt;/h4&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Begin to study your remote workers' patterns. When are they meeting via video conference or able to connect with peers to collaborate together?
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Begin to study your remote workers’ patterns. When are they meeting via video conference or able to connect with peers to collaborate together?
 Look for opportunities to get remote employees together for events, even if this means using technology.
-Understand your remote workers' strengths and their natural talents to appreciate who they are and how they work best.
+Understand your remote workers’ strengths and their natural talents to appreciate who they are and how they work best.
 Spend time understanding what type of friendships your employees are looking to make. With their talents in mind, this gives you the clues and insights to match up complementary partnerships.
 Encourage your remote employees to share stories about themselves.
 Plan time to socialize with your remote employees when it will not disrupt their work or customers.
-Make an effort to hear your remote employees' thoughts and opinions at the end of each milestone on a project or task, as if they were in the office.
-Ask yourself daily, &quot;From what I learned and communicated today -- of those working remotely, who needs to know those things or needs a check-in?&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+Make an effort to hear your remote employees’ thoughts and opinions at the end of each milestone on a project or task, as if they were in the office.
+Ask yourself daily, “From what I learned and communicated today – of those working remotely, who needs to know those things or needs a check-in?”&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -433,14 +441,15 @@ Ask yourself daily, &quot;From what I learned and communicated today -- of those
 
 &lt;p&gt;Seven Attributes for Quality Software&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Portability: is about creating a software product that is easily moved to another platform.
-Reliability: is about a software product that does what is's supposed to do, dependably.
-Efficiency: is about software product that economizes on both running and space consumption.
-Usability: is about a software product that is easy and comfortable to use.
-Testability: is about a software product that is easy to test.
-Understandability: is about a software product that is easy for maintainer to comprehend.
-Modifiability: is about a software product that is easy for a maintainer to change.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">User Satisfaction/Apdex Score averages suck but people like it Error Rate HTTP Error % – Number of web requests that ended in an error. Logged Exceptions – Number of unhandled and logged errors from your application. Thrown Exceptions – Number of all exceptions that have been thrown. scale matrix (instanses) request rate, number of concurrent users server,application cpu Application Availability GC</summary></entry><entry><title type="html">Awesome Product Engineering</title><link href="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html" rel="alternate" type="text/html" title="Awesome Product Engineering" /><published>2018-06-13T00:00:00+05:30</published><updated>2018-06-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/06/13/awesome-product-engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html">&lt;ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;Portability: is about creating a software product that is easily moved to another platform.&lt;/li&gt;
+  &lt;li&gt;Reliability: is about a software product that does what is’s supposed to do, dependably.&lt;/li&gt;
+  &lt;li&gt;Efficiency: is about software product that economizes on both running and space consumption.&lt;/li&gt;
+  &lt;li&gt;Usability: is about a software product that is easy and comfortable to use.&lt;/li&gt;
+  &lt;li&gt;Testability: is about a software product that is easy to test.&lt;/li&gt;
+  &lt;li&gt;Understandability: is about a software product that is easy for maintainer to comprehend.&lt;/li&gt;
+  &lt;li&gt;Modifiability: is about a software product that is easy for a maintainer to change.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Satisfaction/Apdex Score averages suck but people like it Error Rate HTTP Error % – Number of web requests that ended in an error. Logged Exceptions – Number of unhandled and logged errors from your application. Thrown Exceptions – Number of all exceptions that have been thrown. scale matrix (instanses) request rate, number of concurrent users server,application cpu Application Availability GC</summary></entry><entry><title type="html">Awesome Product Engineering</title><link href="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html" rel="alternate" type="text/html" title="Awesome Product Engineering" /><published>2018-06-13T00:00:00+05:30</published><updated>2018-06-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/06/13/awesome-product-engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/teoga/awesome-product-design&quot;&gt;https://github.com/teoga/awesome-product-design&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://brainmates.com.au/industry-links/software-tools-for-product-managers/&quot;&gt;http://brainmates.com.au/industry-links/software-tools-for-product-managers/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Zemanta/engineering-at-zemanta&quot;&gt;https://github.com/Zemanta/engineering-at-zemanta&lt;/a&gt;&lt;/li&gt;

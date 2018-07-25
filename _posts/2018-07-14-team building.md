@@ -73,15 +73,15 @@
 <https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&g_medium=&g_campaign=item_&g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial>
 
 #### Here's how you can start to improve your team's engagement:
-
-    Begin to study your remote workers' patterns. When are they meeting via video conference or able to connect with peers to collaborate together?
-    Look for opportunities to get remote employees together for events, even if this means using technology.
-    Understand your remote workers' strengths and their natural talents to appreciate who they are and how they work best.
-    Spend time understanding what type of friendships your employees are looking to make. With their talents in mind, this gives you the clues and insights to match up complementary partnerships.
-    Encourage your remote employees to share stories about themselves.
-    Plan time to socialize with your remote employees when it will not disrupt their work or customers.
-    Make an effort to hear your remote employees' thoughts and opinions at the end of each milestone on a project or task, as if they were in the office.
-    Ask yourself daily, "From what I learned and communicated today -- of those working remotely, who needs to know those things or needs a check-in?"
+------------------
+> Begin to study your remote workers' patterns. When are they meeting via video conference or able to connect with peers to collaborate together?
+Look for opportunities to get remote employees together for events, even if this means using technology.
+Understand your remote workers' strengths and their natural talents to appreciate who they are and how they work best.
+Spend time understanding what type of friendships your employees are looking to make. With their talents in mind, this gives you the clues and insights to match up complementary partnerships.
+Encourage your remote employees to share stories about themselves.
+Plan time to socialize with your remote employees when it will not disrupt their work or customers.
+Make an effort to hear your remote employees' thoughts and opinions at the end of each milestone on a project or task, as if they were in the office.
+Ask yourself daily, "From what I learned and communicated today -- of those working remotely, who needs to know those things or needs a check-in?"
 
 - Velocity: 
 

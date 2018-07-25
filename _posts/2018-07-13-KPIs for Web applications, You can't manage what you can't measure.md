@@ -13,12 +13,12 @@
 
 Seven Attributes for Quality Software
 
-    Portability: is about creating a software product that is easily moved to another platform.
-    Reliability: is about a software product that does what is's supposed to do, dependably.
-    Efficiency: is about software product that economizes on both running and space consumption.
-    Usability: is about a software product that is easy and comfortable to use.
-    Testability: is about a software product that is easy to test.
-    Understandability: is about a software product that is easy for maintainer to comprehend.
-    Modifiability: is about a software product that is easy for a maintainer to change.
+- Portability: is about creating a software product that is easily moved to another platform.
+- Reliability: is about a software product that does what is's supposed to do, dependably.
+- Efficiency: is about software product that economizes on both running and space consumption.
+- Usability: is about a software product that is easy and comfortable to use.
+- Testability: is about a software product that is easy to test.
+- Understandability: is about a software product that is easy for maintainer to comprehend.
+- Modifiability: is about a software product that is easy for a maintainer to change.
 
 
