@@ -24,6 +24,6 @@
 
 * Errors tend to cluster.
 
-*There are tradeoffs between size and time optimization. Often, improving one degrades the other.
+* There are tradeoffs between size and time optimization. Often, improving one degrades the other.
 
-*You can't manage whay you can't measure. 
+* You can't manage whay you can't measure. 

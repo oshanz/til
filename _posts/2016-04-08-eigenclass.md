@@ -7,7 +7,7 @@ https://gist.github.com/Integralist/bb8760d11a03c88da151
 3. private method only changes the visibility of instance methods
 4. Class methods on the other hand are instance methods of the Eigenclass
 
-
+```ruby
 class Test 
 	
 	def self.bar
@@ -24,3 +24,4 @@ end
 
 Test.bar
 Test.foo
+```

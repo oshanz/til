@@ -1,11 +1,13 @@
-Perceptual blocks
+* Perceptual blocks
+
             Detecting what you expect – stereotyping
             Difficulty in isolating the problem
             Tendency to delimit the problem area poorly
             Inability to see the problem from various viewpoints
             Saturation
             Failure to utilize all sensory inputs
-Emotional Blocks
+* Emotional Blocks
+
              Emotion
              Freud
              The Humanistic Psychologists
@@ -16,7 +18,8 @@ Emotional Blocks
             Lack of challenge versus excessive zeal
             Reality and fantasy           
             Of flow and angst
-Cultural and environmental blocks
+* Cultural and environmental blocks
+
             Taboos
             Fantasy and reflection are a waste of time, lazy, even crazy
             Playfulness is for children only
@@ -30,14 +33,16 @@ Cultural and environmental blocks
             Lack of cooperation and trust among colleagues
             Autocratic boss who values only his/her own ideas: does not reward others
             Lack of support to bring ideas into action
-Intellectual and expressive blocks
+* Intellectual and expressive blocks
+
             Solving the problem using an incorrect language (verbal, mathematical, visual)—as in
             tryingto solve a problem mathematically when it can more easily be accomplished
             visually.
             Inflexible or inadequate use of intellectual problem-solving strategies
             Lack of, or incorrect information
             Inadequate language skill to express and record ideas (verbally,  musically, visually, etc.)
-Alternate thinking languages
+* Alternate thinking languages
+
            Visual Thinking
            Other sensory languages
            Cognitive diversity
@@ -46,7 +51,8 @@ Alternate thinking languages
            Convergence-divergence
            Deduction-induction
           Jung and the Myers Briggs test
-Kinds of blockbusters
+* Kinds of blockbusters
+
           A questioning attitude
          Working on the right problem
          Time and effort focussers
@@ -58,13 +64,15 @@ Kinds of blockbusters
         Maslow
         Barron
         Other paths for freeing the unconscious
-Groups
+* Groups
+
         Inadequate knowledge of the creative process and the use of group creativity   techniques.      
         Poor understanding of the roles of affiliation and ego needs
         Poor leadership
         Inadequate or unbalanced group membership
        Lack of proper support
-Organizations
+* Organizations
+
        Too much or too little control
        Age and size
        Tradition and past success

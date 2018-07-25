@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2018-07-25T06:39:30+05:30</updated><id>http://localhost:4000/til/</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;p&gt;Open-ended Questions&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2018-07-25T18:07:25+05:30</updated><id>http://localhost:4000/til/</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;h3 id=&quot;open-ended-questions&quot;&gt;Open-ended Questions&lt;/h3&gt;
 
-&lt;p&gt;• Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?”
-• Reflective: challenging basic assumptions – “Why do we always do it this way?” “Has this ever been tried?”
-• Probing: Getting more details; going deeper – “Can you elaborate on why this is happening?”
-• Creating connections: asking for systems perspectives – “What will be the consequences of this action?”
-• Exploratory: opening up new avenues and insights that lead to new explorations – “Have you considered such a source?”
-• Analytical: examining cause and effect, not just symptoms – “Why has this happened?”
-• Affective: encouraging sharing of feelings – “How do you feel/how excited are you about this strategy?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?”&lt;/li&gt;
+  &lt;li&gt;Reflective: challenging basic assumptions – “Why do we always do it this way?” “Has this ever been tried?”&lt;/li&gt;
+  &lt;li&gt;Probing: Getting more details; going deeper – “Can you elaborate on why this is happening?”&lt;/li&gt;
+  &lt;li&gt;Creating connections: asking for systems perspectives – “What will be the consequences of this action?”&lt;/li&gt;
+  &lt;li&gt;Exploratory: opening up new avenues and insights that lead to new explorations – “Have you considered such a source?”&lt;/li&gt;
+  &lt;li&gt;Analytical: examining cause and effect, not just symptoms – “Why has this happened?”&lt;/li&gt;
+  &lt;li&gt;Affective: encouraging sharing of feelings – “How do you feel/how excited are you about this strategy?&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;What do you think about ..?&lt;/li&gt;
@@ -21,60 +23,117 @@
   &lt;li&gt;What are you trying to understand?&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Closed Questions&lt;/p&gt;
+&lt;h3 id=&quot;closed-questions&quot;&gt;Closed Questions&lt;/h3&gt;
 
-&lt;p&gt;• Limit debate and make decisions – “Is the team ready to make a decision?”
-• Find out specific information – “ When is the proposal due?”&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Limit debate and make decisions – “Is the team ready to make a decision?”&lt;/li&gt;
+  &lt;li&gt;Find out specific information – “ When is the proposal due?”&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Follow-up Questions&lt;/p&gt;
+&lt;h3 id=&quot;follow-up-questions&quot;&gt;Follow-up Questions&lt;/h3&gt;
 
-&lt;p&gt;• Leading Questions – “Isn’t it true ?”
-• Multiple-Choice Questions – When the team doesn’t make the proper connection desired by the coach. Feels like an interrogation.
-• Judgmental Questions –
+&lt;ul&gt;
+  &lt;li&gt;Leading Questions – “Isn’t it true ?”&lt;/li&gt;
+  &lt;li&gt;Multiple-Choice Questions – When the team doesn’t make the proper connection desired by the coach. Feels like an interrogation.&lt;/li&gt;
+  &lt;li&gt;Judgmental Questions –
 – Why did you make mistakes on this issue?
 – Can someone help Andrew understand this point?
-– Why is the team taking so long to come up with a solution?
-• Identify preferences – “Does the team like Plan A or Plan B?”&lt;/p&gt;
+– Why is the team taking so long to come up with a solution?&lt;/li&gt;
+  &lt;li&gt;Identify preferences – “Does the team like Plan A or Plan B?”&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Commitment to ask questions&lt;/li&gt;
   &lt;li&gt;Courage and authenticity&lt;/li&gt;
   &lt;li&gt;Timing for questions&lt;/li&gt;
   &lt;li&gt;Active listening
- • Being able to hear what is said as well as what is not being said
- • Requires astute observation and note- taking to be in touch and in tune with who is saying what, how, when and to whom&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Being able to hear what is said as well as what is not being said&lt;/li&gt;
+      &lt;li&gt;Requires astute observation and note- taking to be in touch and in tune with who is saying what, how, when and to whom&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Strong commitment to learning
- • Belief that learning is critical to improving actions, and that questions are the best way to enable others and self to learn
- • Great leaders are eager to see individuals, groups and organizations learn&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Belief that learning is critical to improving actions, and that questions are the best way to enable others and self to learn&lt;/li&gt;
+      &lt;li&gt;Great leaders are eager to see individuals, groups and organizations learn&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Positive, supportive attitude toward others
- • Concerned with the well-being of each person
- • Committed to their success
- • Empathetic and supportive
- • See the potential in each person
- • Believe that everyone can change and learn&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Self-awareness and Self-confidence
- • Questioner is cognizant of his/her strengths and limitations, and the impact of his questions
- • Confident, yet humble when asking questions
- • Willing to learn and change self
- • Can handle rivalries, distrust and anger
- • Recognizes the power and importance of questions&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Concerned with the well-being of each person&lt;/li&gt;
+      &lt;li&gt;Committed to their success&lt;/li&gt;
+      &lt;li&gt;Empathetic and supportive&lt;/li&gt;
+      &lt;li&gt;See the potential in each person&lt;/li&gt;
+      &lt;li&gt;Believe that everyone can change and learn&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Self-awareness and Self-confidence
+    &lt;ul&gt;
+      &lt;li&gt;Questioner is cognizant of his/her strengths and limitations, and the impact of his questions&lt;/li&gt;
+      &lt;li&gt;Confident, yet humble when asking questions&lt;/li&gt;
+      &lt;li&gt;Willing to learn and change self&lt;/li&gt;
+      &lt;li&gt;Can handle rivalries, distrust and anger&lt;/li&gt;
+      &lt;li&gt;Recognizes the power and importance of questions&lt;/li&gt;
+    &lt;/ul&gt;
 
     &lt;p&gt;The Architecture for Great Questions&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Linguisticconstructionofthequestion,in order of generating reflection – what, when, where, which, how, why&lt;/li&gt;
   &lt;li&gt;Scopeofthequestion–individual, group, organization, community, nation, global&lt;/li&gt;
   &lt;li&gt;Assumptionswithinquestions–explicit, implicit, altering; e.g., “How would we approach this problem if we were engineers?&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Open-ended Questions • Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?” • Reflective: challenging basic assumptions – “Why do we always do it this way?” “Has this ever been tried?” • Probing: Getting more details; going deeper – “Can you elaborate on why this is happening?” • Creating connections: asking for systems perspectives – “What will be the consequences of this action?” • Exploratory: opening up new avenues and insights that lead to new explorations – “Have you considered such a source?” • Analytical: examining cause and effect, not just symptoms – “Why has this happened?” • Affective: encouraging sharing of feelings – “How do you feel/how excited are you about this strategy?</summary></entry><entry><title type="html">Aws Cost Optimization</title><link href="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html" rel="alternate" type="text/html" title="Aws Cost Optimization" /><published>2018-07-18T00:00:00+05:30</published><updated>2018-07-18T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/18/aws-cost-optimization</id><content type="html" xml:base="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html">&lt;p&gt;• Cost Explorer – See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.﻿ 
-• AWS Trusted Advisor – Get real-time identification of potential areas for optimization.﻿ 
-• AWS Budgets – Set custom budgets that trigger alerts when cost or usage exceed (or are forecasted to﻿ exceed) a budgeted amount. Budgets can be set based on tags and accounts as well as resource types.﻿ 
-• Amazon CloudWatch – Collect and track metrics, monitor log files, set alarms, and automatically react﻿ to changes in AWS resources.﻿ 
-• AWS CloudTrail – Log, continuously monitor, and retain account activity related to actions across AWS﻿ infrastructure at low cost.﻿ 
-• Amazon S3 Analytics – Automated analysis and visualization of Amazon S3 storage patterns to help﻿ you decide when to shift data to a different storage class.﻿ 
-• Cost Optimization Monitor – Automatically process detailed billing reports to get granular metrics that﻿ can be searched, analyzed, and visualized in a customizable dashboard.﻿ 
-• EC2 Right Sizing – Analyze EC2 instance utilization data and receive reporting recommendations for﻿ right sizing EC2 instances. The tool recommends instances that better match your usage.﻿ 
-• AWS Cost and Usage Report – Granular raw data files detailing your hourly AWS usage across accounts﻿ used for Do-It-Yourself (DIY) analysis (e.g., determining which S3 bucket is driving data transfer spend).﻿ The AWS Cost and Usage Report has dynamic columns that populate depending on the services you﻿ use.﻿ 
-• Detailed Billing Report – This report is similar to the AWS Cost and Usage Report, but it has static﻿ columns. This report is eventually deprecated. We recommend that you use the AWS Cost and Usage﻿ Report instead.﻿ 11&lt;/p&gt;</content><author><name></name></author><summary type="html">• Cost Explorer – See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.﻿ • AWS Trusted Advisor – Get real-time identification of potential areas for optimization.﻿ • AWS Budgets – Set custom budgets that trigger alerts when cost or usage exceed (or are forecasted to﻿ exceed) a budgeted amount. Budgets can be set based on tags and accounts as well as resource types.﻿ • Amazon CloudWatch – Collect and track metrics, monitor log files, set alarms, and automatically react﻿ to changes in AWS resources.﻿ • AWS CloudTrail – Log, continuously monitor, and retain account activity related to actions across AWS﻿ infrastructure at low cost.﻿ • Amazon S3 Analytics – Automated analysis and visualization of Amazon S3 storage patterns to help﻿ you decide when to shift data to a different storage class.﻿ • Cost Optimization Monitor – Automatically process detailed billing reports to get granular metrics that﻿ can be searched, analyzed, and visualized in a customizable dashboard.﻿ • EC2 Right Sizing – Analyze EC2 instance utilization data and receive reporting recommendations for﻿ right sizing EC2 instances. The tool recommends instances that better match your usage.﻿ • AWS Cost and Usage Report – Granular raw data files detailing your hourly AWS usage across accounts﻿ used for Do-It-Yourself (DIY) analysis (e.g., determining which S3 bucket is driving data transfer spend).﻿ The AWS Cost and Usage Report has dynamic columns that populate depending on the services you﻿ use.﻿ • Detailed Billing Report – This report is similar to the AWS Cost and Usage Report, but it has static﻿ columns. This report is eventually deprecated. We recommend that you use the AWS Cost and Usage﻿ Report instead.﻿ 11</summary></entry><entry><title type="html">Facts and fallacies of software engineering</title><link href="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html" rel="alternate" type="text/html" title="Facts and fallacies of software engineering" /><published>2018-07-15T00:00:00+05:30</published><updated>2018-07-15T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/15/Facts%20and%20Fallacies%20of%20Software%20Engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html">&lt;ul&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Open-ended Questions Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?” Reflective: challenging basic assumptions – “Why do we always do it this way?” “Has this ever been tried?” Probing: Getting more details; going deeper – “Can you elaborate on why this is happening?” Creating connections: asking for systems perspectives – “What will be the consequences of this action?” Exploratory: opening up new avenues and insights that lead to new explorations – “Have you considered such a source?” Analytical: examining cause and effect, not just symptoms – “Why has this happened?” Affective: encouraging sharing of feelings – “How do you feel/how excited are you about this strategy?</summary></entry><entry><title type="html">Aws Cost Optimization</title><link href="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html" rel="alternate" type="text/html" title="Aws Cost Optimization" /><published>2018-07-18T00:00:00+05:30</published><updated>2018-07-18T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/18/aws-cost-optimization</id><content type="html" xml:base="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html">&lt;p&gt;• Cost Explorer&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, 
+    observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• AWS Trusted Advisor&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Get real-time identification of potential areas for optimization.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• AWS Budgets&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Set custom budgets that trigger alerts when cost or usage exceed (or are forecasted to﻿ exceed) a budgeted amount. Budgets can be set based on tags and accounts as well as resource types
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• Amazon CloudWatch&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Collect and track metrics, monitor log files, set alarms, and automatically react﻿ to changes in AWS resources.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• AWS CloudTrail&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Log, continuously monitor, and retain account activity related to actions across AWS﻿ infrastructure at low cost.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• Amazon S3 Analytics&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Automated analysis and visualization of Amazon S3 storage patterns to help﻿ you decide when to shift data to a different storage class.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• Cost Optimization Monitor&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Automatically process detailed billing reports to get granular metrics that﻿ can be searched, analyzed, and visualized in a customizable dashboard.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• EC2 Right Sizing  Analyzer&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    EC2 instance utilization data and receive reporting recommendations for﻿ right sizing EC2 instances. 
+    The tool recommends instances that better match your usage.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• AWS Cost and Usage Report&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Granular raw data files detailing your hourly AWS usage across accounts﻿ used for Do-It-Yourself (DIY) analysis 
+    (e.g., determining which S3 bucket is driving data transfer spend).﻿ The AWS Cost and Usage Report has dynamic columns that populate depending on the services you﻿ use.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;• Detailed Billing Report&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    This report is similar to the AWS Cost and Usage Report, but it has static﻿ columns. 
+    This report is eventually deprecated. We recommend that you use the AWS Cost and Usage﻿ Report instead.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">• Cost Explorer See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.</summary></entry><entry><title type="html">Facts and fallacies of software engineering</title><link href="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html" rel="alternate" type="text/html" title="Facts and fallacies of software engineering" /><published>2018-07-15T00:00:00+05:30</published><updated>2018-07-15T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/15/Facts%20and%20Fallacies%20of%20Software%20Engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html">&lt;ul&gt;
   &lt;li&gt;Most of our estimates are more like wishes than realistic targets.&lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.&lt;/p&gt;
@@ -105,43 +164,38 @@
   &lt;li&gt;
     &lt;p&gt;Even if 100 percent test coverage were possible, that is not a sufficient criterion for testing. Roughly 35 percent of software defects emerge from missing logic paths, and another 40 percent from the execution of a unique combination of logic paths. They will not be caught by 100 percent coverage.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Errors tend to cluster.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;*There are tradeoffs between size and time optimization. Often, improving one degrades the other.&lt;/p&gt;
-
-&lt;p&gt;*You can’t manage whay you can’t measure.&lt;/p&gt;</content><author><name></name></author><summary type="html">Most of our estimates are more like wishes than realistic targets. There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.</summary></entry><entry><title type="html">Team building</title><link href="http://localhost:4000/til/2018/07/14/team-building.html" rel="alternate" type="text/html" title="Team building" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/team%20building</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/team-building.html">&lt;p&gt;Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules&lt;/p&gt;
-
-&lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;The Measuring Stick – Gallup Study&lt;/p&gt;
-
-    &lt;p&gt;Do I know what is expected of me at work?
-  Do I have the materials and equipment I need to do my work right?
-  At work, do I have the opportunity to do what I do best every day?
-  In the last seven days, have I received recognition or praise for doing good work?
-  Does my supervisor, or someone at work, seem to care about me as a person?
-  Is there someone at work who encourages my development?
-  At work, do my opinions seem to count?
-  Does the mission/purpose of my company make me feel my job is important?
-  Are my co-workers committed to doing quality work?
-  Do I have a best friend at work?
-  In the last six months, has someone at work talked to me about my progress?
-  This last year, have I had opportunities at work to learn and grow?&lt;/p&gt;
+    &lt;p&gt;Errors tend to cluster.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Define the Right Outcomes&lt;/li&gt;
-  &lt;li&gt;Focus on Strengths&lt;/li&gt;
-  &lt;li&gt;Select for Talent&lt;/li&gt;
-  &lt;li&gt;Find the Right Fit&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are tradeoffs between size and time optimization. Often, improving one degrades the other.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You can’t manage whay you can’t measure.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Most of our estimates are more like wishes than realistic targets. There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.</summary></entry><entry><title type="html">Team building</title><link href="http://localhost:4000/til/2018/07/14/team-building.html" rel="alternate" type="text/html" title="Team building" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/team%20building</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/team-building.html">&lt;h4 id=&quot;marcus-buckingham--curt-coffman--first-break-all-the-rules&quot;&gt;Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules&lt;/h4&gt;
 
-&lt;p&gt;how to measure team satisfaction&lt;/p&gt;
+&lt;p&gt;The Measuring Stick – Gallup Study&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    - Do I know what is expected of me at work?
+    - Do I have the materials and equipment I need to do my work right?
+    - At work, do I have the opportunity to do what I do best every day?
+    - In the last seven days, have I received recognition or praise for doing good work?
+    - Does my supervisor, or someone at work, seem to care about me as a person?
+    - Is there someone at work who encourages my development?
+    - At work, do my opinions seem to count?
+    - Does the mission/purpose of my company make me feel my job is important?
+    - Are my co-workers committed to doing quality work?
+    - Do I have a best friend at work?
+    - In the last six months, has someone at work talked to me about my progress?
+    - This last year, have I had opportunities at work to learn and grow? * Define the Right Outcomes * Focus on Strengths * Select for Talent * Find the Right Fit
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;how-to-measure-team-satisfaction&quot;&gt;how to measure team satisfaction&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;survay&lt;/li&gt;
   &lt;li&gt;git stats&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Measures help us improve&lt;/p&gt;
+&lt;h4 id=&quot;measures-help-us-improve&quot;&gt;Measures help us improve&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;Customer satisfaction&lt;/li&gt;
   &lt;li&gt;Quality of end product or service&lt;/li&gt;
@@ -163,51 +217,77 @@
   &lt;li&gt;Gain sharing&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;https://news.gallup.com/home.aspx?g_source=logo
-https://getlighthouse.com/blog/&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.gallup.com/home.aspx?g_source=logo&quot;&gt;https://news.gallup.com/home.aspx?g_source=logo&lt;/a&gt;
+&lt;a href=&quot;https://getlighthouse.com/blog/&quot;&gt;https://getlighthouse.com/blog/&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Employee engagement
-https://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx&lt;/p&gt;
+&lt;h4 id=&quot;employee-engagement&quot;&gt;Employee engagement&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx&quot;&gt;https://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;» Employee Engagement: the degree to which employees feel committed to their company, which influences the e ort they put into their work.6
-» Employee Experience: the way employees perceive the sum of their interactions with their employer, over the course of their employment. A great employee experience helps increase employee engagement.
-» Employee Life Cycle: the stages employees go through as they progress through their career with a particular company.7 The employee life cycle forms the basis of the employee experience map.
-» Employee Satisfaction: how happy employees are with their jobs.8&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Employee Engagement: the degree to which employees feel committed to their company, which influences the e ort they put into their work.6&lt;/li&gt;
+  &lt;li&gt;Employee Experience: the way employees perceive the sum of their interactions with their employer, over the course of their employment. A great employee experience helps increase employee engagement.&lt;/li&gt;
+  &lt;li&gt;Employee Life Cycle: the stages employees go through as they progress through their career with a particular company.7 The employee life cycle forms the basis of the employee experience map.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Employee Satisfaction: how happy employees are with their jobs.8&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Overall Satisfaction&lt;/li&gt;
+  &lt;li&gt;Know What’s Expected&lt;/li&gt;
+  &lt;li&gt;Materials and Equipment&lt;/li&gt;
+  &lt;li&gt;Opportunity to Do Best&lt;/li&gt;
+  &lt;li&gt;Recognition&lt;/li&gt;
+  &lt;li&gt;Cares About Me&lt;/li&gt;
+  &lt;li&gt;Development&lt;/li&gt;
+  &lt;li&gt;Opinions Count&lt;/li&gt;
+  &lt;li&gt;Mission/Purpose&lt;/li&gt;
+  &lt;li&gt;Committed to Quality&lt;/li&gt;
+  &lt;li&gt;Best Friend&lt;/li&gt;
+  &lt;li&gt;Progress&lt;/li&gt;
+  &lt;li&gt;Learn and Grow&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Overall Satisfaction
-Know What’s Expected
-Materials and Equipment
-Opportunity to Do Best
-Recognition
-Cares About Me
-Development
-Opinions Count
-Mission/Purpose
-Committed to Quality
-Best Friend
-Progress
-Learn and Grow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&amp;amp;g_medium=&amp;amp;g_campaign=item_&amp;amp;g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial&quot;&gt;https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&amp;amp;g_medium=&amp;amp;g_campaign=item_&amp;amp;g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&amp;amp;g_medium=&amp;amp;g_campaign=item_&amp;amp;g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial&lt;/p&gt;
+&lt;h4 id=&quot;heres-how-you-can-start-to-improve-your-teams-engagement&quot;&gt;Here’s how you can start to improve your team’s engagement:&lt;/h4&gt;
 
-&lt;p&gt;Here’s how you can start to improve your team’s engagement:&lt;/p&gt;
-
-&lt;p&gt;Begin to study your remote workers’ patterns. When are they meeting via video conference or able to connect with peers to collaborate together?
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Begin to study your remote workers' patterns. When are they meeting via video conference or able to connect with peers to collaborate together?
 Look for opportunities to get remote employees together for events, even if this means using technology.
-Understand your remote workers’ strengths and their natural talents to appreciate who they are and how they work best.
+Understand your remote workers' strengths and their natural talents to appreciate who they are and how they work best.
 Spend time understanding what type of friendships your employees are looking to make. With their talents in mind, this gives you the clues and insights to match up complementary partnerships.
 Encourage your remote employees to share stories about themselves.
 Plan time to socialize with your remote employees when it will not disrupt their work or customers.
-Make an effort to hear your remote employees’ thoughts and opinions at the end of each milestone on a project or task, as if they were in the office.
-Ask yourself daily, “From what I learned and communicated today – of those working remotely, who needs to know those things or needs a check-in?”&lt;/p&gt;
+Make an effort to hear your remote employees' thoughts and opinions at the end of each milestone on a project or task, as if they were in the office.
+Ask yourself daily, &quot;From what I learned and communicated today -- of those working remotely, who needs to know those things or needs a check-in?&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Velocity: When we track velocity, we are expressing how much effort (story points) a scrum team can get to “done” during a sprint. With velocity, the trend is more important than any individual measurement. As the trend stabilizes, teams can forecast their product backlog. Release planning also becomes easier for the product owner.
-Defect Density: The number of bugs discovered during a sprint. This measurement is a call back to the scrum team’s commitment to quality. The lower the number of bugs the better. Again, the trend is important. An increasing number of bugs sprint-over-sprint could mean that the team is taking on too much work. A downward trend could point to changes in the definition of done improving quality.
-Customer Satisfaction: How happy is your customer? The simplest method I’ve used is a simple web application that asked customers how they feel about the current sprint. They could select a smiley face, a frown face, or a neutral face. If a customer picked a frown face they were asked to provide additional comments. The goal is measure satisfaction over time and to also address negative feedback quickly.
-Team Satisfaction: Is your team happy? This is a measurement that could be gathered at the end of each sprint retrospective. The measurement could be the results of a “fist of five” question, or it could be a survey similar to the customer satisfaction metric. Scrum teams should keep an eye on this trend and use the “5 Why’s” and other techniques to get to the root cause of whichever way the trend is going.
-Value Per Sprint: This metric measures how much value the scrum team is delivering back to the customer/business/organization. One of the components of a story card is value. Scrum teams can use this value and measure a trend. The product owner could also provide a value in dollars that represents the impact of the sprint. A downward trend in this metric could indicate that lower value features are being implemented and that it is time to stop development on the product.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Velocity:&lt;/p&gt;
 
-&lt;p&gt;5 Factors Leaders Should Focus on to Reduce Burnout&lt;/p&gt;
+    &lt;p&gt;When we track velocity, we are expressing how much effort (story points) a scrum team can get to “done” during a sprint. With velocity, the trend is more important than any individual measurement. As the trend stabilizes, teams can forecast their product backlog. Release planning also becomes easier for the product owner.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Defect Density:&lt;/p&gt;
+
+    &lt;p&gt;The number of bugs discovered during a sprint. This measurement is a call back to the scrum team’s commitment to quality. The lower the number of bugs the better. Again, the trend is important. An increasing number of bugs sprint-over-sprint could mean that the team is taking on too much work. A downward trend could point to changes in the definition of done improving quality.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Customer Satisfaction:&lt;/p&gt;
+
+    &lt;p&gt;How happy is your customer? The simplest method I’ve used is a simple web application that asked customers how they feel about the current sprint. They could select a smiley face, a frown face, or a neutral face. If a customer picked a frown face they were asked to provide additional comments. The goal is measure satisfaction over time and to also address negative feedback quickly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Team Satisfaction:&lt;/p&gt;
+
+    &lt;p&gt;Is your team happy? This is a measurement that could be gathered at the end of each sprint retrospective. The measurement could be the results of a “fist of five” question, or it could be a survey similar to the customer satisfaction metric. Scrum teams should keep an eye on this trend and use the “5 Why’s” and other techniques to get to the root cause of whichever way the trend is going.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Value Per Sprint:&lt;/p&gt;
+
+    &lt;p&gt;This metric measures how much value the scrum team is delivering back to the customer/business/organization. One of the components of a story card is value. Scrum teams can use this value and measure a trend. The product owner could also provide a value in dollars that represents the impact of the sprint. A downward trend in this metric could indicate that lower value features are being implemented and that it is time to stop development on the product.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;5-factors-leaders-should-focus-on-to-reduce-burnout&quot;&gt;5 Factors Leaders Should Focus on to Reduce Burnout&lt;/h4&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Unfair treatment at work&lt;/li&gt;
@@ -217,7 +297,7 @@ Value Per Sprint: This metric measures how much value the scrum team is deliveri
   &lt;li&gt;Unreasonable time pressure&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;How Managers Can Prevent Burnout&lt;/p&gt;
+&lt;h4 id=&quot;how-managers-can-prevent-burnout&quot;&gt;How Managers Can Prevent Burnout&lt;/h4&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Listen to work-related problems.&lt;/li&gt;
@@ -232,78 +312,112 @@ Value Per Sprint: This metric measures how much value the scrum team is deliveri
   &lt;li&gt;Design jobs to allow for autonomy.&lt;/li&gt;
   &lt;li&gt;Audit your workspace lighting.&lt;/li&gt;
   &lt;li&gt;Provide collaboration spaces that are inviting.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules</summary></entry><entry><title type="html">Conceptual blockbusting</title><link href="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html" rel="alternate" type="text/html" title="Conceptual blockbusting" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/Conceptual%20Blockbusting</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html">&lt;p&gt;Perceptual blocks
-            Detecting what you expect – stereotyping
-            Difficulty in isolating the problem
-            Tendency to delimit the problem area poorly
-            Inability to see the problem from various viewpoints
-            Saturation
-            Failure to utilize all sensory inputs
-Emotional Blocks
-             Emotion
-             Freud
-             The Humanistic Psychologists
-             Fear of taking a risk
-             No appetite for chaos
-            Judging rather than generating ideas
-            Inability or unwillingness to incubate
-            Lack of challenge versus excessive zeal
-            Reality and fantasy         &lt;br /&gt;
-            Of flow and angst
-Cultural and environmental blocks
-            Taboos
-            Fantasy and reflection are a waste of time, lazy, even crazy
-            Playfulness is for children only
-            Problem solving is a serious business and humor is out of place
-            Reason, logic, numbers, utility, practicality are good: feeling,  intuition,   qualitative                judgements, pleasure, are bad.
-            Any problem can be solved by scientific thinking and lots of money
-            Everyone should be like me
-            Cyber is better
-            Tradition is preferable to change
-            Distractions – phone, easy intrusion
-            Lack of cooperation and trust among colleagues
-            Autocratic boss who values only his/her own ideas: does not reward others
-            Lack of support to bring ideas into action
-Intellectual and expressive blocks
-            Solving the problem using an incorrect language (verbal, mathematical, visual)—as in
-            tryingto solve a problem mathematically when it can more easily be accomplished
-            visually.
-            Inflexible or inadequate use of intellectual problem-solving strategies
-            Lack of, or incorrect information
-            Inadequate language skill to express and record ideas (verbally,  musically, visually, etc.)
-Alternate thinking languages
-           Visual Thinking
-           Other sensory languages
-           Cognitive diversity
-           The problem of specialization
-           Analysis- synthesis
-           Convergence-divergence
-           Deduction-induction
-          Jung and the Myers Briggs test
-Kinds of blockbusters
-          A questioning attitude
-         Working on the right problem
-         Time and effort focussers
-         Set breakers
-        Using other people’s ideas
-        Crossing disciplines
-        Crossing cultures and changing environments
-        Unconscious blockbusting
-        Maslow
-        Barron
-        Other paths for freeing the unconscious
-Groups
-        Inadequate knowledge of the creative process and the use of group creativity   techniques.    &lt;br /&gt;
-        Poor understanding of the roles of affiliation and ego needs
-        Poor leadership
-        Inadequate or unbalanced group membership
-       Lack of proper support
-Organizations
-       Too much or too little control
-       Age and size
-       Tradition and past success
-       Inappropriate reward system and support
-       Inhibitive culture&lt;/p&gt;</content><author><name></name></author><summary type="html">Perceptual blocks Detecting what you expect – stereotyping Difficulty in isolating the problem Tendency to delimit the problem area poorly Inability to see the problem from various viewpoints Saturation Failure to utilize all sensory inputs Emotional Blocks Emotion Freud The Humanistic Psychologists Fear of taking a risk No appetite for chaos Judging rather than generating ideas Inability or unwillingness to incubate Lack of challenge versus excessive zeal Reality and fantasy Of flow and angst Cultural and environmental blocks Taboos Fantasy and reflection are a waste of time, lazy, even crazy Playfulness is for children only Problem solving is a serious business and humor is out of place Reason, logic, numbers, utility, practicality are good: feeling, intuition, qualitative judgements, pleasure, are bad. Any problem can be solved by scientific thinking and lots of money Everyone should be like me Cyber is better Tradition is preferable to change Distractions – phone, easy intrusion Lack of cooperation and trust among colleagues Autocratic boss who values only his/her own ideas: does not reward others Lack of support to bring ideas into action Intellectual and expressive blocks Solving the problem using an incorrect language (verbal, mathematical, visual)—as in tryingto solve a problem mathematically when it can more easily be accomplished visually. Inflexible or inadequate use of intellectual problem-solving strategies Lack of, or incorrect information Inadequate language skill to express and record ideas (verbally, musically, visually, etc.) Alternate thinking languages Visual Thinking Other sensory languages Cognitive diversity The problem of specialization Analysis- synthesis Convergence-divergence Deduction-induction Jung and the Myers Briggs test Kinds of blockbusters A questioning attitude Working on the right problem Time and effort focussers Set breakers Using other people’s ideas Crossing disciplines Crossing cultures and changing environments Unconscious blockbusting Maslow Barron Other paths for freeing the unconscious Groups Inadequate knowledge of the creative process and the use of group creativity techniques. Poor understanding of the roles of affiliation and ego needs Poor leadership Inadequate or unbalanced group membership Lack of proper support Organizations Too much or too little control Age and size Tradition and past success Inappropriate reward system and support Inhibitive culture</summary></entry><entry><title type="html">Kpis for web applications, you can&amp;#8217;t manage whay you can&amp;#8217;t measure</title><link href="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-whay-you-can't-measure.html" rel="alternate" type="text/html" title="Kpis for web applications, you can't manage whay you can't measure" /><published>2018-07-13T00:00:00+05:30</published><updated>2018-07-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/13/KPIs%20for%20Web%20applications,%20You%20can't%20manage%20whay%20you%20can't%20measure</id><content type="html" xml:base="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-whay-you-can't-measure.html">&lt;ol&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules</summary></entry><entry><title type="html">Conceptual blockbusting</title><link href="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html" rel="alternate" type="text/html" title="Conceptual blockbusting" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/Conceptual%20Blockbusting</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Perceptual blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Detecting what you expect – stereotyping
+      Difficulty in isolating the problem
+      Tendency to delimit the problem area poorly
+      Inability to see the problem from various viewpoints
+      Saturation
+      Failure to utilize all sensory inputs
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Emotional Blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       Emotion
+       Freud
+       The Humanistic Psychologists
+       Fear of taking a risk
+       No appetite for chaos
+      Judging rather than generating ideas
+      Inability or unwillingness to incubate
+      Lack of challenge versus excessive zeal
+      Reality and fantasy           
+      Of flow and angst
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cultural and environmental blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Taboos
+      Fantasy and reflection are a waste of time, lazy, even crazy
+      Playfulness is for children only
+      Problem solving is a serious business and humor is out of place
+      Reason, logic, numbers, utility, practicality are good: feeling,  intuition,   qualitative                judgements, pleasure, are bad.
+      Any problem can be solved by scientific thinking and lots of money
+      Everyone should be like me
+      Cyber is better
+      Tradition is preferable to change
+      Distractions – phone, easy intrusion
+      Lack of cooperation and trust among colleagues
+      Autocratic boss who values only his/her own ideas: does not reward others
+      Lack of support to bring ideas into action
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Intellectual and expressive blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Solving the problem using an incorrect language (verbal, mathematical, visual)—as in
+      tryingto solve a problem mathematically when it can more easily be accomplished
+      visually.
+      Inflexible or inadequate use of intellectual problem-solving strategies
+      Lack of, or incorrect information
+      Inadequate language skill to express and record ideas (verbally,  musically, visually, etc.)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Alternate thinking languages&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;     Visual Thinking
+     Other sensory languages
+     Cognitive diversity
+     The problem of specialization
+     Analysis- synthesis
+     Convergence-divergence
+     Deduction-induction
+    Jung and the Myers Briggs test
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kinds of blockbusters&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    A questioning attitude
+   Working on the right problem
+   Time and effort focussers
+   Set breakers
+  Using other people’s ideas
+  Crossing disciplines
+  Crossing cultures and changing environments
+  Unconscious blockbusting
+  Maslow
+  Barron
+  Other paths for freeing the unconscious
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Groups&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Inadequate knowledge of the creative process and the use of group creativity   techniques.      
+  Poor understanding of the roles of affiliation and ego needs
+  Poor leadership
+  Inadequate or unbalanced group membership
+ Lack of proper support
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Organizations&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Too much or too little control
+ Age and size
+ Tradition and past success
+ Inappropriate reward system and support
+ Inhibitive culture 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Perceptual blocks</summary></entry><entry><title type="html">Kpis for web applications, you can&amp;#8217;t manage what you can&amp;#8217;t measure</title><link href="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html" rel="alternate" type="text/html" title="Kpis for web applications, you can't manage what you can't measure" /><published>2018-07-13T00:00:00+05:30</published><updated>2018-07-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/13/KPIs%20for%20Web%20applications,%20You%20can't%20manage%20what%20you%20can't%20measure</id><content type="html" xml:base="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html">&lt;ol&gt;
   &lt;li&gt;User Satisfaction/Apdex Score&lt;/li&gt;
   &lt;li&gt;averages suck but people like it&lt;/li&gt;
   &lt;li&gt;Error Rate
@@ -326,15 +440,18 @@ Usability: is about a software product that is easy and comfortable to use.
 Testability: is about a software product that is easy to test.
 Understandability: is about a software product that is easy for maintainer to comprehend.
 Modifiability: is about a software product that is easy for a maintainer to change.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">User Satisfaction/Apdex Score averages suck but people like it Error Rate HTTP Error % – Number of web requests that ended in an error. Logged Exceptions – Number of unhandled and logged errors from your application. Thrown Exceptions – Number of all exceptions that have been thrown. scale matrix (instanses) request rate, number of concurrent users server,application cpu Application Availability GC</summary></entry><entry><title type="html">Awesome Product Engineering</title><link href="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html" rel="alternate" type="text/html" title="Awesome Product Engineering" /><published>2018-06-13T00:00:00+05:30</published><updated>2018-06-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/06/13/awesome-product-engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html">&lt;p&gt;https://github.com/teoga/awesome-product-design
-http://brainmates.com.au/industry-links/software-tools-for-product-managers/
-https://github.com/Zemanta/engineering-at-zemanta
-https://github.com/davidsonfellipe/awesome-wpo
-https://github.com/mmcgrana/services-engineering&lt;/p&gt;
-
-&lt;p&gt;https://github.com/bayandin/awesome-awesomeness
-https://github.com/sbilly/awesome-security
-https://github.com/KrishMunot/awesome-startup&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">User Satisfaction/Apdex Score averages suck but people like it Error Rate HTTP Error % – Number of web requests that ended in an error. Logged Exceptions – Number of unhandled and logged errors from your application. Thrown Exceptions – Number of all exceptions that have been thrown. scale matrix (instanses) request rate, number of concurrent users server,application cpu Application Availability GC</summary></entry><entry><title type="html">Awesome Product Engineering</title><link href="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html" rel="alternate" type="text/html" title="Awesome Product Engineering" /><published>2018-06-13T00:00:00+05:30</published><updated>2018-06-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/06/13/awesome-product-engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/teoga/awesome-product-design&quot;&gt;https://github.com/teoga/awesome-product-design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://brainmates.com.au/industry-links/software-tools-for-product-managers/&quot;&gt;http://brainmates.com.au/industry-links/software-tools-for-product-managers/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Zemanta/engineering-at-zemanta&quot;&gt;https://github.com/Zemanta/engineering-at-zemanta&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/davidsonfellipe/awesome-wpo&quot;&gt;https://github.com/davidsonfellipe/awesome-wpo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/mmcgrana/services-engineering&quot;&gt;https://github.com/mmcgrana/services-engineering&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bayandin/awesome-awesomeness&quot;&gt;https://github.com/bayandin/awesome-awesomeness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sbilly/awesome-security&quot;&gt;https://github.com/sbilly/awesome-security&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/KrishMunot/awesome-startup&quot;&gt;https://github.com/KrishMunot/awesome-startup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Steve Blank: “You’re selling the vision and delivering the minimum feature set to visionaries, not everyone.”[9]&lt;/p&gt;
 
@@ -372,7 +489,7 @@ The Build–Measure–Learn loop emphasizes speed as a critical ingredient to pr
 &lt;p&gt;This rapid iteration allows teams to discover a feasible path towards product/market fit, and to continue optimizing and refining the business model after reaching product/market fit.[28][29]&lt;/p&gt;
 
 &lt;p&gt;CMMI
-http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html&lt;/p&gt;
+&lt;a href=&quot;http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html&quot;&gt;http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;ISO&lt;/p&gt;</content><author><name></name></author><summary type="html">https://github.com/teoga/awesome-product-design http://brainmates.com.au/industry-links/software-tools-for-product-managers/ https://github.com/Zemanta/engineering-at-zemanta https://github.com/davidsonfellipe/awesome-wpo https://github.com/mmcgrana/services-engineering</summary></entry><entry><title type="html">Eigenclass</title><link href="http://localhost:4000/til/2016/04/08/eigenclass.html" rel="alternate" type="text/html" title="Eigenclass" /><published>2016-04-08T00:00:00+05:30</published><updated>2016-04-08T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/08/eigenclass</id><content type="html" xml:base="http://localhost:4000/til/2016/04/08/eigenclass.html">&lt;p&gt;http://www.integralist.co.uk/posts/eigenclass.html&lt;/p&gt;
 
@@ -384,23 +501,23 @@ http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html&lt;/p&g
   &lt;li&gt;Class methods on the other hand are instance methods of the Eigenclass&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;class Test&lt;/p&gt;
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Test&lt;/span&gt; 
+	
+	&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;bar&lt;/span&gt;
+		&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;bar&quot;&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def self.bar
-	puts &quot;bar&quot;
-end
+	&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
+		&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;foo&quot;&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+	
+	&lt;span class=&quot;nb&quot;&gt;private_class_method&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:bar&lt;/span&gt;
 
-def self.foo
-	puts &quot;foo&quot;
-end
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 
-private_class_method :foo, :bar
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;end&lt;/p&gt;
-
-&lt;p&gt;Test.bar
-Test.foo&lt;/p&gt;</content><author><name></name></author><summary type="html">http://www.integralist.co.uk/posts/eigenclass.html</summary></entry><entry><title type="html">Git</title><link href="http://localhost:4000/til/2016/04/05/git.html" rel="alternate" type="text/html" title="Git" /><published>2016-04-05T00:00:00+05:30</published><updated>2016-04-05T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/05/git</id><content type="html" xml:base="http://localhost:4000/til/2016/04/05/git.html">&lt;p&gt;https://gist.github.com/jbenet/ee6c9ac48068889b0912&lt;/p&gt;
+&lt;span class=&quot;no&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;bar&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">http://www.integralist.co.uk/posts/eigenclass.html</summary></entry><entry><title type="html">Git</title><link href="http://localhost:4000/til/2016/04/05/git.html" rel="alternate" type="text/html" title="Git" /><published>2016-04-05T00:00:00+05:30</published><updated>2016-04-05T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/05/git</id><content type="html" xml:base="http://localhost:4000/til/2016/04/05/git.html">&lt;p&gt;https://gist.github.com/jbenet/ee6c9ac48068889b0912&lt;/p&gt;
 
 &lt;p&gt;http://nvie.com/posts/a-successful-git-branching-model/&lt;/p&gt;</content><author><name></name></author><summary type="html">https://gist.github.com/jbenet/ee6c9ac48068889b0912</summary></entry><entry><title type="html">Flamegraph</title><link href="http://localhost:4000/til/2016/04/05/FlameGraph.html" rel="alternate" type="text/html" title="Flamegraph" /><published>2016-04-05T00:00:00+05:30</published><updated>2016-04-05T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/05/FlameGraph</id><content type="html" xml:base="http://localhost:4000/til/2016/04/05/FlameGraph.html">&lt;p&gt;https://github.com/brendangregg/FlameGraph
 http://www.brendangregg.com/index.html&lt;/p&gt;</content><author><name></name></author><summary type="html">https://github.com/brendangregg/FlameGraph http://www.brendangregg.com/index.html</summary></entry></feed>

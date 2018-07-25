@@ -1,12 +1,12 @@
-https://github.com/teoga/awesome-product-design
-http://brainmates.com.au/industry-links/software-tools-for-product-managers/
-https://github.com/Zemanta/engineering-at-zemanta
-https://github.com/davidsonfellipe/awesome-wpo
-https://github.com/mmcgrana/services-engineering
+* <https://github.com/teoga/awesome-product-design>
+* <http://brainmates.com.au/industry-links/software-tools-for-product-managers/>
+* <https://github.com/Zemanta/engineering-at-zemanta>
+* <https://github.com/davidsonfellipe/awesome-wpo>
+* <https://github.com/mmcgrana/services-engineering>
 
-https://github.com/bayandin/awesome-awesomeness
-https://github.com/sbilly/awesome-security
-https://github.com/KrishMunot/awesome-startup
+* <https://github.com/bayandin/awesome-awesomeness>
+* <https://github.com/sbilly/awesome-security>
+* <https://github.com/KrishMunot/awesome-startup>
 
 
 
@@ -49,6 +49,6 @@ This rapid iteration allows teams to discover a feasible path towards product/ma
 
 
 CMMI
-http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html
+<http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html>
 
 ISO
