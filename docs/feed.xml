@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2018-08-02T18:45:28+05:30</updated><id>http://localhost:4000/til/</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;h3 id=&quot;open-ended-questions&quot;&gt;Open-ended Questions&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2019-02-25T12:57:22+05:30</updated><id>http://localhost:4000/til/feed.xml</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Generator Pattern</title><link href="http://localhost:4000/til/2019/02/24/generator-pattern.html" rel="alternate" type="text/html" title="Generator Pattern" /><published>2019-02-24T00:00:00+05:30</published><updated>2019-02-24T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/02/24/generator-pattern</id><content type="html" xml:base="http://localhost:4000/til/2019/02/24/generator-pattern.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-02-24 12-25-57.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Functional Ruby</title><link href="http://localhost:4000/til/2019/01/31/functional-ruby.html" rel="alternate" type="text/html" title="Functional Ruby" /><published>2019-01-31T00:00:00+05:30</published><updated>2019-01-31T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/01/31/functional-ruby</id><content type="html" xml:base="http://localhost:4000/til/2019/01/31/functional-ruby.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-01-31 11-32-10.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;h3 id=&quot;open-ended-questions&quot;&gt;Open-ended Questions&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?”&lt;/li&gt;
@@ -178,7 +178,112 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
     &lt;p&gt;There are tradeoffs between size and time optimization. Often, improving one degrades the other.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;You can’t manage whay you can’t measure.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Most of our estimates are more like wishes than realistic targets. There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.</summary></entry><entry><title type="html">Team building</title><link href="http://localhost:4000/til/2018/07/14/team-building.html" rel="alternate" type="text/html" title="Team building" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/team%20building</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/team-building.html">&lt;h4 id=&quot;marcus-buckingham--curt-coffman--first-break-all-the-rules&quot;&gt;Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules&lt;/h4&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Most of our estimates are more like wishes than realistic targets. There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.</summary></entry><entry><title type="html">Conceptual blockbusting</title><link href="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html" rel="alternate" type="text/html" title="Conceptual blockbusting" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/Conceptual%20Blockbusting</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Perceptual blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Detecting what you expect – stereotyping
+      Difficulty in isolating the problem
+      Tendency to delimit the problem area poorly
+      Inability to see the problem from various viewpoints
+      Saturation
+      Failure to utilize all sensory inputs
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Emotional Blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       Emotion
+       Freud
+       The Humanistic Psychologists
+       Fear of taking a risk
+       No appetite for chaos
+      Judging rather than generating ideas
+      Inability or unwillingness to incubate
+      Lack of challenge versus excessive zeal
+      Reality and fantasy           
+      Of flow and angst
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cultural and environmental blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Taboos
+      Fantasy and reflection are a waste of time, lazy, even crazy
+      Playfulness is for children only
+      Problem solving is a serious business and humor is out of place
+      Reason, logic, numbers, utility, practicality are good: feeling,  intuition,   qualitative                judgements, pleasure, are bad.
+      Any problem can be solved by scientific thinking and lots of money
+      Everyone should be like me
+      Cyber is better
+      Tradition is preferable to change
+      Distractions – phone, easy intrusion
+      Lack of cooperation and trust among colleagues
+      Autocratic boss who values only his/her own ideas: does not reward others
+      Lack of support to bring ideas into action
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Intellectual and expressive blocks&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Solving the problem using an incorrect language (verbal, mathematical, visual)—as in
+      tryingto solve a problem mathematically when it can more easily be accomplished
+      visually.
+      Inflexible or inadequate use of intellectual problem-solving strategies
+      Lack of, or incorrect information
+      Inadequate language skill to express and record ideas (verbally,  musically, visually, etc.)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Alternate thinking languages&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;     Visual Thinking
+     Other sensory languages
+     Cognitive diversity
+     The problem of specialization
+     Analysis- synthesis
+     Convergence-divergence
+     Deduction-induction
+    Jung and the Myers Briggs test
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kinds of blockbusters&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    A questioning attitude
+   Working on the right problem
+   Time and effort focussers
+   Set breakers
+  Using other people’s ideas
+  Crossing disciplines
+  Crossing cultures and changing environments
+  Unconscious blockbusting
+  Maslow
+  Barron
+  Other paths for freeing the unconscious
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Groups&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Inadequate knowledge of the creative process and the use of group creativity   techniques.      
+  Poor understanding of the roles of affiliation and ego needs
+  Poor leadership
+  Inadequate or unbalanced group membership
+ Lack of proper support
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Organizations&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Too much or too little control
+ Age and size
+ Tradition and past success
+ Inappropriate reward system and support
+ Inhibitive culture 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Perceptual blocks</summary></entry><entry><title type="html">Team building</title><link href="http://localhost:4000/til/2018/07/14/team-building.html" rel="alternate" type="text/html" title="Team building" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/team%20building</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/team-building.html">&lt;h4 id=&quot;marcus-buckingham--curt-coffman--first-break-all-the-rules&quot;&gt;Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules&lt;/h4&gt;
 
 &lt;p&gt;The Measuring Stick – Gallup Study&lt;/p&gt;
 
@@ -320,112 +425,7 @@ Ask yourself daily, “From what I learned and communicated today – of those w
   &lt;li&gt;Design jobs to allow for autonomy.&lt;/li&gt;
   &lt;li&gt;Audit your workspace lighting.&lt;/li&gt;
   &lt;li&gt;Provide collaboration spaces that are inviting.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules</summary></entry><entry><title type="html">Conceptual blockbusting</title><link href="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html" rel="alternate" type="text/html" title="Conceptual blockbusting" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/Conceptual%20Blockbusting</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Perceptual blocks&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Detecting what you expect – stereotyping
-      Difficulty in isolating the problem
-      Tendency to delimit the problem area poorly
-      Inability to see the problem from various viewpoints
-      Saturation
-      Failure to utilize all sensory inputs
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Emotional Blocks&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;       Emotion
-       Freud
-       The Humanistic Psychologists
-       Fear of taking a risk
-       No appetite for chaos
-      Judging rather than generating ideas
-      Inability or unwillingness to incubate
-      Lack of challenge versus excessive zeal
-      Reality and fantasy           
-      Of flow and angst
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cultural and environmental blocks&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Taboos
-      Fantasy and reflection are a waste of time, lazy, even crazy
-      Playfulness is for children only
-      Problem solving is a serious business and humor is out of place
-      Reason, logic, numbers, utility, practicality are good: feeling,  intuition,   qualitative                judgements, pleasure, are bad.
-      Any problem can be solved by scientific thinking and lots of money
-      Everyone should be like me
-      Cyber is better
-      Tradition is preferable to change
-      Distractions – phone, easy intrusion
-      Lack of cooperation and trust among colleagues
-      Autocratic boss who values only his/her own ideas: does not reward others
-      Lack of support to bring ideas into action
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Intellectual and expressive blocks&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      Solving the problem using an incorrect language (verbal, mathematical, visual)—as in
-      tryingto solve a problem mathematically when it can more easily be accomplished
-      visually.
-      Inflexible or inadequate use of intellectual problem-solving strategies
-      Lack of, or incorrect information
-      Inadequate language skill to express and record ideas (verbally,  musically, visually, etc.)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Alternate thinking languages&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;     Visual Thinking
-     Other sensory languages
-     Cognitive diversity
-     The problem of specialization
-     Analysis- synthesis
-     Convergence-divergence
-     Deduction-induction
-    Jung and the Myers Briggs test
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kinds of blockbusters&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    A questioning attitude
-   Working on the right problem
-   Time and effort focussers
-   Set breakers
-  Using other people’s ideas
-  Crossing disciplines
-  Crossing cultures and changing environments
-  Unconscious blockbusting
-  Maslow
-  Barron
-  Other paths for freeing the unconscious
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Groups&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Inadequate knowledge of the creative process and the use of group creativity   techniques.      
-  Poor understanding of the roles of affiliation and ego needs
-  Poor leadership
-  Inadequate or unbalanced group membership
- Lack of proper support
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Organizations&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Too much or too little control
- Age and size
- Tradition and past success
- Inappropriate reward system and support
- Inhibitive culture 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Perceptual blocks</summary></entry><entry><title type="html">Kpis for web applications, you can&amp;#8217;t manage what you can&amp;#8217;t measure</title><link href="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html" rel="alternate" type="text/html" title="Kpis for web applications, you can't manage what you can't measure" /><published>2018-07-13T00:00:00+05:30</published><updated>2018-07-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/13/KPIs%20for%20Web%20applications,%20You%20can't%20manage%20what%20you%20can't%20measure</id><content type="html" xml:base="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html">&lt;ol&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules</summary></entry><entry><title type="html">Kpis for web applications, you can&amp;#8217;t manage what you can&amp;#8217;t measure</title><link href="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html" rel="alternate" type="text/html" title="Kpis for web applications, you can't manage what you can't measure" /><published>2018-07-13T00:00:00+05:30</published><updated>2018-07-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/13/KPIs%20for%20Web%20applications,%20You%20can't%20manage%20what%20you%20can't%20measure</id><content type="html" xml:base="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html">&lt;ol&gt;
   &lt;li&gt;User Satisfaction/Apdex Score&lt;/li&gt;
   &lt;li&gt;averages suck but people like it&lt;/li&gt;
   &lt;li&gt;Error Rate
@@ -526,8 +526,4 @@ The Build–Measure–Learn loop emphasizes speed as a critical ingredient to pr
 
 &lt;span class=&quot;no&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;bar&lt;/span&gt;
 &lt;span class=&quot;no&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">http://www.integralist.co.uk/posts/eigenclass.html</summary></entry><entry><title type="html">Git</title><link href="http://localhost:4000/til/2016/04/05/git.html" rel="alternate" type="text/html" title="Git" /><published>2016-04-05T00:00:00+05:30</published><updated>2016-04-05T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/05/git</id><content type="html" xml:base="http://localhost:4000/til/2016/04/05/git.html">&lt;p&gt;https://gist.github.com/jbenet/ee6c9ac48068889b0912&lt;/p&gt;
-
-&lt;p&gt;http://nvie.com/posts/a-successful-git-branching-model/&lt;/p&gt;</content><author><name></name></author><summary type="html">https://gist.github.com/jbenet/ee6c9ac48068889b0912</summary></entry><entry><title type="html">Flamegraph</title><link href="http://localhost:4000/til/2016/04/05/FlameGraph.html" rel="alternate" type="text/html" title="Flamegraph" /><published>2016-04-05T00:00:00+05:30</published><updated>2016-04-05T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/05/FlameGraph</id><content type="html" xml:base="http://localhost:4000/til/2016/04/05/FlameGraph.html">&lt;p&gt;&lt;a href=&quot;https://github.com/brendangregg/FlameGraph&quot;&gt;https://github.com/brendangregg/FlameGraph&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.brendangregg.com/index.html&quot;&gt;http://www.brendangregg.com/index.html&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">https://github.com/brendangregg/FlameGraph</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">http://www.integralist.co.uk/posts/eigenclass.html</summary></entry></feed>
