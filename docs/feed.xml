@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2019-02-26T17:10:23+05:30</updated><id>http://localhost:4000/til/feed.xml</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Generator Pattern</title><link href="http://localhost:4000/til/2019/02/24/generator-pattern.html" rel="alternate" type="text/html" title="Generator Pattern" /><published>2019-02-24T00:00:00+05:30</published><updated>2019-02-24T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/02/24/generator-pattern</id><content type="html" xml:base="http://localhost:4000/til/2019/02/24/generator-pattern.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-02-24 12-25-57.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2019-02-26T17:23:30+05:30</updated><id>http://localhost:4000/til/feed.xml</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Generator Pattern</title><link href="http://localhost:4000/til/2019/02/24/generator-pattern.html" rel="alternate" type="text/html" title="Generator Pattern" /><published>2019-02-24T00:00:00+05:30</published><updated>2019-02-24T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/02/24/generator-pattern</id><content type="html" xml:base="http://localhost:4000/til/2019/02/24/generator-pattern.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-02-24 12-25-57.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -18,7 +18,27 @@ s.setAttribute('data-timestamp', +new Date());
 
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Functional Ruby</title><link href="http://localhost:4000/til/2019/01/31/functional-ruby.html" rel="alternate" type="text/html" title="Functional Ruby" /><published>2019-01-31T00:00:00+05:30</published><updated>2019-01-31T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/01/31/functional-ruby</id><content type="html" xml:base="http://localhost:4000/til/2019/01/31/functional-ruby.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-01-31 11-32-10.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;h3 id=&quot;open-ended-questions&quot;&gt;Open-ended Questions&lt;/h3&gt;
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Functional Ruby</title><link href="http://localhost:4000/til/2019/01/31/functional-ruby.html" rel="alternate" type="text/html" title="Functional Ruby" /><published>2019-01-31T00:00:00+05:30</published><updated>2019-01-31T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/01/31/functional-ruby</id><content type="html" xml:base="http://localhost:4000/til/2019/01/31/functional-ruby.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-01-31 11-32-10.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2019/01/31/functional-ruby.html';
+    this.page.identifier = '2019-01-31-functional-ruby';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Leading with questions</title><link href="http://localhost:4000/til/2018/07/19/leading-with-questions.html" rel="alternate" type="text/html" title="Leading with questions" /><published>2018-07-19T00:00:00+05:30</published><updated>2018-07-19T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/19/leading%20with%20questions</id><content type="html" xml:base="http://localhost:4000/til/2018/07/19/leading-with-questions.html">&lt;h3 id=&quot;open-ended-questions&quot;&gt;Open-ended Questions&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?”&lt;/li&gt;
@@ -34,8 +54,8 @@ s.setAttribute('data-timestamp', +new Date());
   &lt;li&gt;What do you think about ..?&lt;/li&gt;
   &lt;li&gt;What more could you say about .?&lt;/li&gt;
   &lt;li&gt;What might happen if ..?&lt;/li&gt;
-  &lt;li&gt;Why do you think it is not feasible to   ?&lt;/li&gt;
-  &lt;li&gt;How you intend to resolve this issue  ?&lt;/li&gt;
+  &lt;li&gt;Why do you think it is not feasible to ?&lt;/li&gt;
+  &lt;li&gt;How you intend to resolve this issue ?&lt;/li&gt;
   &lt;li&gt;When would be the best time to invest in ..?&lt;/li&gt;
   &lt;li&gt;When you say “difficult,” what do you mean?&lt;/li&gt;
   &lt;li&gt;How will you use the information?&lt;/li&gt;
@@ -87,7 +107,9 @@ s.setAttribute('data-timestamp', +new Date());
       &lt;li&gt;Believe that everyone can change and learn&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Self-awareness and Self-confidence
+  &lt;li&gt;
+    &lt;p&gt;Self-awareness and Self-confidence&lt;/p&gt;
+
     &lt;ul&gt;
       &lt;li&gt;Questioner is cognizant of his/her strengths and limitations, and the impact of his questions&lt;/li&gt;
       &lt;li&gt;Confident, yet humble when asking questions&lt;/li&gt;
@@ -101,10 +123,30 @@ s.setAttribute('data-timestamp', +new Date());
   &lt;li&gt;Linguisticconstructionofthequestion,in order of generating reflection – what, when, where, which, how, why&lt;/li&gt;
   &lt;li&gt;Scopeofthequestion–individual, group, organization, community, nation, global&lt;/li&gt;
   &lt;li&gt;Assumptionswithinquestions–explicit, implicit, altering; e.g., “How would we approach this problem if we were engineers?&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Open-ended Questions Clarifying: improving the clarity of a message or statement; encouraging more elaboration – “How exactly would you like this done?” Reflective: challenging basic assumptions – “Why do we always do it this way?” “Has this ever been tried?” Probing: Getting more details; going deeper – “Can you elaborate on why this is happening?” Creating connections: asking for systems perspectives – “What will be the consequences of this action?” Exploratory: opening up new avenues and insights that lead to new explorations – “Have you considered such a source?” Analytical: examining cause and effect, not just symptoms – “Why has this happened?” Affective: encouraging sharing of feelings – “How do you feel/how excited are you about this strategy?</summary></entry><entry><title type="html">Aws Cost Optimization</title><link href="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html" rel="alternate" type="text/html" title="Aws Cost Optimization" /><published>2018-07-18T00:00:00+05:30</published><updated>2018-07-18T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/18/aws-cost-optimization</id><content type="html" xml:base="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html">&lt;p&gt;• Cost Explorer&lt;/p&gt;
+&lt;/ol&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/07/19/leading-with-questions.html';
+    this.page.identifier = '2018-07-19-leading with questions';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Open-ended Questions</summary></entry><entry><title type="html">Aws Cost Optimization</title><link href="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html" rel="alternate" type="text/html" title="Aws Cost Optimization" /><published>2018-07-18T00:00:00+05:30</published><updated>2018-07-18T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/18/aws-cost-optimization</id><content type="html" xml:base="http://localhost:4000/til/2018/07/18/aws-cost-optimization.html">&lt;p&gt;• Cost Explorer&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, 
+  &lt;p&gt;See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry,
 observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -144,7 +186,7 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
   &lt;p&gt;Automatically process detailed billing reports to get granular metrics that﻿ can be searched, analyzed, and visualized in a customizable dashboard.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;• EC2 Right Sizing  Analyzer&lt;/p&gt;
+&lt;p&gt;• EC2 Right Sizing Analyzer&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;EC2 instance utilization data and receive reporting recommendations for﻿ right sizing EC2 instances. The tool recommends instances that better match your usage.&lt;/p&gt;
@@ -160,7 +202,27 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
 
 &lt;blockquote&gt;
   &lt;p&gt;This report is similar to the AWS Cost and Usage Report, but it has static﻿ columns. This report is eventually deprecated. We recommend that you use the AWS Cost and Usage﻿ Report instead.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">• Cost Explorer See patterns in AWS spend over time, project future costs, identify areas that need﻿ further inquiry, observe Reserved Instance utilization, observe Reserved Instance coverage, and receive﻿ Reserved Instance recommendations.</summary></entry><entry><title type="html">Facts and fallacies of software engineering</title><link href="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html" rel="alternate" type="text/html" title="Facts and fallacies of software engineering" /><published>2018-07-15T00:00:00+05:30</published><updated>2018-07-15T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/15/Facts%20and%20Fallacies%20of%20Software%20Engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html">&lt;ul&gt;
+&lt;/blockquote&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/07/18/aws-cost-optimization.html';
+    this.page.identifier = '2018-07-18-aws-cost-optimization';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">• Cost Explorer</summary></entry><entry><title type="html">Facts and fallacies of software engineering</title><link href="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html" rel="alternate" type="text/html" title="Facts and fallacies of software engineering" /><published>2018-07-15T00:00:00+05:30</published><updated>2018-07-15T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/15/Facts%20and%20Fallacies%20of%20Software%20Engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html">&lt;ul&gt;
   &lt;li&gt;Most of our estimates are more like wishes than realistic targets.&lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.&lt;/p&gt;
@@ -198,7 +260,27 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
     &lt;p&gt;There are tradeoffs between size and time optimization. Often, improving one degrades the other.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;You can’t manage whay you can’t measure.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Most of our estimates are more like wishes than realistic targets. There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.</summary></entry><entry><title type="html">Conceptual blockbusting</title><link href="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html" rel="alternate" type="text/html" title="Conceptual blockbusting" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/Conceptual%20Blockbusting</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html">&lt;ul&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/07/15/Facts-and-Fallacies-of-Software-Engineering.html';
+    this.page.identifier = '2018-07-15-Facts and Fallacies of Software Engineering';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Most of our estimates are more like wishes than realistic targets. There is almost always a price to be paid for working toward an unrealistic deadline. That price is most often paid in human terms (reputation, morale, and health, among others), but - as you can see in this story - there is likely a financial price to be paid as well.</summary></entry><entry><title type="html">Conceptual blockbusting</title><link href="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html" rel="alternate" type="text/html" title="Conceptual blockbusting" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/Conceptual%20Blockbusting</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/Conceptual-Blockbusting.html">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Perceptual blocks&lt;/p&gt;
 
@@ -221,7 +303,7 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
       Judging rather than generating ideas
       Inability or unwillingness to incubate
       Lack of challenge versus excessive zeal
-      Reality and fantasy           
+      Reality and fantasy
       Of flow and angst
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
@@ -286,7 +368,7 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
   &lt;li&gt;
     &lt;p&gt;Groups&lt;/p&gt;
 
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Inadequate knowledge of the creative process and the use of group creativity   techniques.      
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Inadequate knowledge of the creative process and the use of group creativity   techniques.
   Poor understanding of the roles of affiliation and ego needs
   Poor leadership
   Inadequate or unbalanced group membership
@@ -300,34 +382,52 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
  Age and size
  Tradition and past success
  Inappropriate reward system and support
- Inhibitive culture 
+ Inhibitive culture
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Perceptual blocks</summary></entry><entry><title type="html">Team building</title><link href="http://localhost:4000/til/2018/07/14/team-building.html" rel="alternate" type="text/html" title="Team building" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/team%20building</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/team-building.html">&lt;h4 id=&quot;marcus-buckingham--curt-coffman--first-break-all-the-rules&quot;&gt;Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules&lt;/h4&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/07/14/Conceptual-Blockbusting.html';
+    this.page.identifier = '2018-07-14-Conceptual Blockbusting';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Perceptual blocks</summary></entry><entry><title type="html">Team building</title><link href="http://localhost:4000/til/2018/07/14/team-building.html" rel="alternate" type="text/html" title="Team building" /><published>2018-07-14T00:00:00+05:30</published><updated>2018-07-14T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/14/team%20building</id><content type="html" xml:base="http://localhost:4000/til/2018/07/14/team-building.html">&lt;h4 id=&quot;marcus-buckingham--curt-coffman--first-break-all-the-rules&quot;&gt;Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules&lt;/h4&gt;
 
 &lt;p&gt;The Measuring Stick – Gallup Study&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    - Do I know what is expected of me at work?
-    - Do I have the materials and equipment I need to do my work right?
-    - At work, do I have the opportunity to do what I do best every day?
-    - In the last seven days, have I received recognition or praise for doing good work?
-    - Does my supervisor, or someone at work, seem to care about me as a person?
-    - Is there someone at work who encourages my development?
-    - At work, do my opinions seem to count?
-    - Does the mission/purpose of my company make me feel my job is important?
-    - Are my co-workers committed to doing quality work?
-    - Do I have a best friend at work?
-    - In the last six months, has someone at work talked to me about my progress?
-    - This last year, have I had opportunities at work to learn and grow? * Define the Right Outcomes * Focus on Strengths * Select for Talent * Find the Right Fit
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Do I know what is expected of me at work? - Do I have the materials and equipment I need to do my work right? - At work, do I have the opportunity to do what I do best every day? - In the last seven days, have I received recognition or praise for doing good work? - Does my supervisor, or someone at work, seem to care about me as a person? - Is there someone at work who encourages my development? - At work, do my opinions seem to count? - Does the mission/purpose of my company make me feel my job is important? - Are my co-workers committed to doing quality work? - Do I have a best friend at work? - In the last six months, has someone at work talked to me about my progress? - This last year, have I had opportunities at work to learn and grow?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Define the Right Outcomes&lt;/li&gt;
+  &lt;li&gt;Focus on Strengths&lt;/li&gt;
+  &lt;li&gt;Select for Talent&lt;/li&gt;
+  &lt;li&gt;Find the Right Fit&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&quot;how-to-measure-team-satisfaction&quot;&gt;how to measure team satisfaction&lt;/h4&gt;
+
 &lt;ul&gt;
   &lt;li&gt;survay&lt;/li&gt;
   &lt;li&gt;git stats&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;measures-help-us-improve&quot;&gt;Measures help us improve&lt;/h4&gt;
+
 &lt;ul&gt;
   &lt;li&gt;Customer satisfaction&lt;/li&gt;
   &lt;li&gt;Quality of end product or service&lt;/li&gt;
@@ -353,6 +453,7 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
 &lt;a href=&quot;https://getlighthouse.com/blog/&quot;&gt;https://getlighthouse.com/blog/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;employee-engagement&quot;&gt;Employee engagement&lt;/h4&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx&quot;&gt;https://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -380,7 +481,9 @@ observe Reserved Instance utilization, observe Reserved Instance coverage, and r
 &lt;p&gt;&lt;a href=&quot;https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&amp;amp;g_medium=&amp;amp;g_campaign=item_&amp;amp;g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial&quot;&gt;https://news.gallup.com/businessjournal/231566/why-friendships-among-remote-workers-crucial.aspx?g_source=link_NEWSV9&amp;amp;g_medium=&amp;amp;g_campaign=item_&amp;amp;g_content=Why%2520Friendships%2520Among%2520Remote%2520Workers%2520Are%2520Crucial&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;heres-how-you-can-start-to-improve-your-teams-engagement&quot;&gt;Here’s how you can start to improve your team’s engagement:&lt;/h4&gt;
+
 &lt;hr /&gt;
+
 &lt;blockquote&gt;
   &lt;p&gt;Begin to study your remote workers’ patterns. When are they meeting via video conference or able to connect with peers to collaborate together?
 Look for opportunities to get remote employees together for events, even if this means using technology.
@@ -445,13 +548,33 @@ Ask yourself daily, “From what I learned and communicated today – of those w
   &lt;li&gt;Design jobs to allow for autonomy.&lt;/li&gt;
   &lt;li&gt;Audit your workspace lighting.&lt;/li&gt;
   &lt;li&gt;Provide collaboration spaces that are inviting.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules</summary></entry><entry><title type="html">Kpis for web applications, you can&amp;#8217;t manage what you can&amp;#8217;t measure</title><link href="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html" rel="alternate" type="text/html" title="Kpis for web applications, you can't manage what you can't measure" /><published>2018-07-13T00:00:00+05:30</published><updated>2018-07-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/13/KPIs%20for%20Web%20applications,%20You%20can't%20manage%20what%20you%20can't%20measure</id><content type="html" xml:base="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html">&lt;ol&gt;
+&lt;/ol&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/07/14/team-building.html';
+    this.page.identifier = '2018-07-14-team building';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Marcus Buckingham &amp;amp; Curt Coffman – First, Break All The Rules</summary></entry><entry><title type="html">Kpis for web applications, you can&amp;#8217;t manage what you can&amp;#8217;t measure</title><link href="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html" rel="alternate" type="text/html" title="Kpis for web applications, you can't manage what you can't measure" /><published>2018-07-13T00:00:00+05:30</published><updated>2018-07-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/07/13/KPIs%20for%20Web%20applications,%20You%20can't%20manage%20what%20you%20can't%20measure</id><content type="html" xml:base="http://localhost:4000/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html">&lt;ol&gt;
   &lt;li&gt;User Satisfaction/Apdex Score&lt;/li&gt;
   &lt;li&gt;averages suck but people like it&lt;/li&gt;
   &lt;li&gt;Error Rate
-  HTTP Error % – Number of web requests that ended in an error.
-  Logged Exceptions – Number of unhandled and logged errors from your application.
-  Thrown Exceptions – Number of all exceptions that have been thrown.&lt;/li&gt;
+HTTP Error % – Number of web requests that ended in an error.
+Logged Exceptions – Number of unhandled and logged errors from your application.
+Thrown Exceptions – Number of all exceptions that have been thrown.&lt;/li&gt;
   &lt;li&gt;scale matrix (instanses)&lt;/li&gt;
   &lt;li&gt;request rate, number of concurrent users&lt;/li&gt;
   &lt;li&gt;server,application cpu&lt;/li&gt;
@@ -469,7 +592,27 @@ Ask yourself daily, “From what I learned and communicated today – of those w
   &lt;li&gt;Testability: is about a software product that is easy to test.&lt;/li&gt;
   &lt;li&gt;Understandability: is about a software product that is easy for maintainer to comprehend.&lt;/li&gt;
   &lt;li&gt;Modifiability: is about a software product that is easy for a maintainer to change.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">User Satisfaction/Apdex Score averages suck but people like it Error Rate HTTP Error % – Number of web requests that ended in an error. Logged Exceptions – Number of unhandled and logged errors from your application. Thrown Exceptions – Number of all exceptions that have been thrown. scale matrix (instanses) request rate, number of concurrent users server,application cpu Application Availability GC</summary></entry><entry><title type="html">Awesome Product Engineering</title><link href="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html" rel="alternate" type="text/html" title="Awesome Product Engineering" /><published>2018-06-13T00:00:00+05:30</published><updated>2018-06-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/06/13/awesome-product-engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html">&lt;ul&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = &quot;http://oshanz.github.io/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html&quot;;
+    this.page.identifier = &quot;2018-07-13-KPIs for Web applications, You can't manage what you can't measure&quot;;
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">User Satisfaction/Apdex Score averages suck but people like it Error Rate HTTP Error % – Number of web requests that ended in an error. Logged Exceptions – Number of unhandled and logged errors from your application. Thrown Exceptions – Number of all exceptions that have been thrown. scale matrix (instanses) request rate, number of concurrent users server,application cpu Application Availability GC</summary></entry><entry><title type="html">Awesome Product Engineering</title><link href="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html" rel="alternate" type="text/html" title="Awesome Product Engineering" /><published>2018-06-13T00:00:00+05:30</published><updated>2018-06-13T00:00:00+05:30</updated><id>http://localhost:4000/til/2018/06/13/awesome-product-engineering</id><content type="html" xml:base="http://localhost:4000/til/2018/06/13/awesome-product-engineering.html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/teoga/awesome-product-design&quot;&gt;https://github.com/teoga/awesome-product-design&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://brainmates.com.au/industry-links/software-tools-for-product-managers/&quot;&gt;http://brainmates.com.au/industry-links/software-tools-for-product-managers/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/Zemanta/engineering-at-zemanta&quot;&gt;https://github.com/Zemanta/engineering-at-zemanta&lt;/a&gt;&lt;/li&gt;
@@ -520,18 +663,39 @@ The Build–Measure–Learn loop emphasizes speed as a critical ingredient to pr
 &lt;p&gt;CMMI
 &lt;a href=&quot;http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html&quot;&gt;http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;ISO&lt;/p&gt;</content><author><name></name></author><summary type="html">https://github.com/teoga/awesome-product-design http://brainmates.com.au/industry-links/software-tools-for-product-managers/ https://github.com/Zemanta/engineering-at-zemanta https://github.com/davidsonfellipe/awesome-wpo https://github.com/mmcgrana/services-engineering</summary></entry><entry><title type="html">Eigenclass</title><link href="http://localhost:4000/til/2016/04/08/eigenclass.html" rel="alternate" type="text/html" title="Eigenclass" /><published>2016-04-08T00:00:00+05:30</published><updated>2016-04-08T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/08/eigenclass</id><content type="html" xml:base="http://localhost:4000/til/2016/04/08/eigenclass.html">&lt;p&gt;http://www.integralist.co.uk/posts/eigenclass.html&lt;/p&gt;
+&lt;p&gt;ISO&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/06/13/awesome-product-engineering.html';
+    this.page.identifier = '2018-06-13-awesome-product-engineering';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">https://github.com/teoga/awesome-product-design http://brainmates.com.au/industry-links/software-tools-for-product-managers/ https://github.com/Zemanta/engineering-at-zemanta https://github.com/davidsonfellipe/awesome-wpo https://github.com/mmcgrana/services-engineering</summary></entry><entry><title type="html">Eigenclass</title><link href="http://localhost:4000/til/2016/04/08/eigenclass.html" rel="alternate" type="text/html" title="Eigenclass" /><published>2016-04-08T00:00:00+05:30</published><updated>2016-04-08T00:00:00+05:30</updated><id>http://localhost:4000/til/2016/04/08/eigenclass</id><content type="html" xml:base="http://localhost:4000/til/2016/04/08/eigenclass.html">&lt;p&gt;http://www.integralist.co.uk/posts/eigenclass.html&lt;/p&gt;
 
 &lt;p&gt;https://gist.github.com/Integralist/bb8760d11a03c88da151
 1.When creating singleton methods (i.e. def self.foo) Ruby will create an anonymous class to hold these methods. The anonymous class then assumes the role of the object’s class and the original class is re-designated as the superclass of that anonymous class(Eigenclass).&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;private is actually a method&lt;/li&gt;
   &lt;li&gt;private method only changes the visibility of instance methods&lt;/li&gt;
   &lt;li&gt;Class methods on the other hand are instance methods of the Eigenclass&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Test&lt;/span&gt; 
-	
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Test&lt;/span&gt;
+
 	&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;bar&lt;/span&gt;
 		&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;bar&quot;&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
@@ -539,11 +703,31 @@ The Build–Measure–Learn loop emphasizes speed as a critical ingredient to pr
 	&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
 		&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;foo&quot;&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-	
+
 	&lt;span class=&quot;nb&quot;&gt;private_class_method&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:bar&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
 
 &lt;span class=&quot;no&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;bar&lt;/span&gt;
 &lt;span class=&quot;no&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">http://www.integralist.co.uk/posts/eigenclass.html</summary></entry></feed>
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2016/04/08/eigenclass.html';
+    this.page.identifier = '2016-04-08-eigenclass';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//oshanz.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">http://www.integralist.co.uk/posts/eigenclass.html</summary></entry></feed>

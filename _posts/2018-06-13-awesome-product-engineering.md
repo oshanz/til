@@ -1,14 +1,12 @@
-* <https://github.com/teoga/awesome-product-design>
-* <http://brainmates.com.au/industry-links/software-tools-for-product-managers/>
-* <https://github.com/Zemanta/engineering-at-zemanta>
-* <https://github.com/davidsonfellipe/awesome-wpo>
-* <https://github.com/mmcgrana/services-engineering>
+- <https://github.com/teoga/awesome-product-design>
+- <http://brainmates.com.au/industry-links/software-tools-for-product-managers/>
+- <https://github.com/Zemanta/engineering-at-zemanta>
+- <https://github.com/davidsonfellipe/awesome-wpo>
+- <https://github.com/mmcgrana/services-engineering>
 
-* <https://github.com/bayandin/awesome-awesomeness>
-* <https://github.com/sbilly/awesome-security>
-* <https://github.com/KrishMunot/awesome-startup>
-
-
+- <https://github.com/bayandin/awesome-awesomeness>
+- <https://github.com/sbilly/awesome-security>
+- <https://github.com/KrishMunot/awesome-startup>
 
 Steve Blank: "You’re selling the vision and delivering the minimum feature set to visionaries, not everyone."[9]
 
@@ -20,7 +18,6 @@ The MVP differs from the conventional market testing strategy of investing time 
 The MVP is a strategy that may be used as a part of Blank's customer development methodology that focuses on continual product iteration and refinement based on customer feedback. Additionally, the presentation of non-existing products and features may be refined using web-based statistical hypothesis testing, such as A/B testing.
 
 The general method of deploy first, code later is akin to the agile program code testing methodology called test-driven development where unit tests are written before and fail until the code is written.
-
 
 Minimum viable product
 Continuous deployment (only for software development)
@@ -46,9 +43,26 @@ The Build–Measure–Learn loop emphasizes speed as a critical ingredient to pr
 
 This rapid iteration allows teams to discover a feasible path towards product/market fit, and to continue optimizing and refining the business model after reaching product/market fit.[28][29]
 
-
-
 CMMI
 <http://people.cs.ksu.edu/~dwyer/courses/748/resources/cmm-tr25/tr25.html>
 
 ISO
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/06/13/awesome-product-engineering.html';
+    this.page.identifier = '2018-06-13-awesome-product-engineering';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//oshanz.disqus.com/count.js" async></script>

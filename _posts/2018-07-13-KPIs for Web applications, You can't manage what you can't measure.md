@@ -1,15 +1,14 @@
 1. User Satisfaction/Apdex Score
 2. averages suck but people like it
 3. Error Rate
-  HTTP Error % – Number of web requests that ended in an error.
-  Logged Exceptions – Number of unhandled and logged errors from your application.
-  Thrown Exceptions – Number of all exceptions that have been thrown.
+   HTTP Error % – Number of web requests that ended in an error.
+   Logged Exceptions – Number of unhandled and logged errors from your application.
+   Thrown Exceptions – Number of all exceptions that have been thrown.
 4. scale matrix (instanses)
 5. request rate, number of concurrent users
 6. server,application cpu
 7. Application Availability
 8. GC
-
 
 Seven Attributes for Quality Software
 
@@ -21,4 +20,21 @@ Seven Attributes for Quality Software
 - Understandability: is about a software product that is easy for maintainer to comprehend.
 - Modifiability: is about a software product that is easy for a maintainer to change.
 
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+    this.page.url = "http://oshanz.github.io/til/2018/07/13/KPIs-for-Web-applications,-You-can't-manage-what-you-can't-measure.html";
+    this.page.identifier = "2018-07-13-KPIs for Web applications, You can't manage what you can't measure";
+};
 
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//oshanz.disqus.com/count.js" async></script>

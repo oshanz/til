@@ -49,14 +49,15 @@
 
 <p>https://gist.github.com/Integralist/bb8760d11a03c88da151
 1.When creating singleton methods (i.e. def self.foo) Ruby will create an anonymous class to hold these methods. The anonymous class then assumes the role of the object’s class and the original class is re-designated as the superclass of that anonymous class(Eigenclass).</p>
+
 <ol>
   <li>private is actually a method</li>
   <li>private method only changes the visibility of instance methods</li>
   <li>Class methods on the other hand are instance methods of the Eigenclass</li>
 </ol>
 
-<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Test</span> 
-	
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">class</span> <span class="nc">Test</span>
+
 	<span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">bar</span>
 		<span class="nb">puts</span> <span class="s2">"bar"</span>
 	<span class="k">end</span>
@@ -64,7 +65,7 @@
 	<span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">foo</span>
 		<span class="nb">puts</span> <span class="s2">"foo"</span>
 	<span class="k">end</span>
-	
+
 	<span class="nb">private_class_method</span> <span class="ss">:foo</span><span class="p">,</span> <span class="ss">:bar</span>
 
 <span class="k">end</span>
@@ -72,6 +73,27 @@
 <span class="no">Test</span><span class="p">.</span><span class="nf">bar</span>
 <span class="no">Test</span><span class="p">.</span><span class="nf">foo</span>
 </code></pre></div></div>
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2016/04/08/eigenclass.html';
+    this.page.identifier = '2016-04-08-eigenclass';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//oshanz.disqus.com/count.js" async=""></script>
+
 
   </div><a class="u-url" href="/til/2016/04/08/eigenclass.html" hidden></a>
 </article>

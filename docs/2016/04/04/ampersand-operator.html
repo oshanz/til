@@ -7,15 +7,15 @@
 <meta name="generator" content="Jekyll v3.7.4" />
 <meta property="og:title" content="Ampersand Operator" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="This is how a function call with an ampersand looks like: some_function(&amp;an_object) When used as shown above, the &amp; operator induces a call to to_proc on the argument, and passes the resulting Proc object (explained in the box below) as a block to the method." />
-<meta property="og:description" content="This is how a function call with an ampersand looks like: some_function(&amp;an_object) When used as shown above, the &amp; operator induces a call to to_proc on the argument, and passes the resulting Proc object (explained in the box below) as a block to the method." />
+<meta name="description" content="This is how a function call with an ampersand looks like:" />
+<meta property="og:description" content="This is how a function call with an ampersand looks like:" />
 <link rel="canonical" href="http://localhost:4000/til/2016/04/04/ampersand-operator.html" />
 <meta property="og:url" content="http://localhost:4000/til/2016/04/04/ampersand-operator.html" />
 <meta property="og:site_name" content="Today I Learned" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2016-04-04T00:00:00+05:30" />
 <script type="application/ld+json">
-{"headline":"Ampersand Operator","dateModified":"2016-04-04T00:00:00+05:30","datePublished":"2016-04-04T00:00:00+05:30","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/til/2016/04/04/ampersand-operator.html"},"url":"http://localhost:4000/til/2016/04/04/ampersand-operator.html","description":"This is how a function call with an ampersand looks like: some_function(&amp;an_object) When used as shown above, the &amp; operator induces a call to to_proc on the argument, and passes the resulting Proc object (explained in the box below) as a block to the method.","@context":"http://schema.org"}</script>
+{"headline":"Ampersand Operator","dateModified":"2016-04-04T00:00:00+05:30","datePublished":"2016-04-04T00:00:00+05:30","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/til/2016/04/04/ampersand-operator.html"},"url":"http://localhost:4000/til/2016/04/04/ampersand-operator.html","description":"This is how a function call with an ampersand looks like:","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/til/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/til/feed.xml" title="Today I Learned" /></head>
 <body><header class="site-header" role="banner">
@@ -46,8 +46,10 @@
 
   <div class="post-content e-content" itemprop="articleBody">
     <p>This is how a function call with an ampersand looks like:</p>
+
 <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">some_function</span><span class="p">(</span><span class="o">&amp;</span><span class="n">an_object</span><span class="p">)</span>
 </code></pre></div></div>
+
 <p>When used as shown above, the &amp; operator induces a call to to_proc on the argument, and passes the resulting Proc object (explained in the box below) as a block to the method.</p>
 
 <p>What’s a Proc?
@@ -63,7 +65,29 @@ We can initialize a Proc with a block like this:</p>
 
 <div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">mult</span><span class="p">.</span><span class="nf">call</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span>
 </code></pre></div></div>
+
 <p>returns 20.</p>
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2016/04/04/ampersand-operator.html';
+    this.page.identifier = '2016-04-04-ampersand-operator';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//oshanz.disqus.com/count.js" async=""></script>
+
 
   </div><a class="u-url" href="/til/2016/04/04/ampersand-operator.html" hidden></a>
 </article>

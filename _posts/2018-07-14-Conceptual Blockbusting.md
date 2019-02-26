@@ -1,4 +1,4 @@
-* Perceptual blocks
+- Perceptual blocks
 
             Detecting what you expect – stereotyping
             Difficulty in isolating the problem
@@ -6,7 +6,8 @@
             Inability to see the problem from various viewpoints
             Saturation
             Failure to utilize all sensory inputs
-* Emotional Blocks
+
+- Emotional Blocks
 
              Emotion
              Freud
@@ -16,9 +17,10 @@
             Judging rather than generating ideas
             Inability or unwillingness to incubate
             Lack of challenge versus excessive zeal
-            Reality and fantasy           
+            Reality and fantasy
             Of flow and angst
-* Cultural and environmental blocks
+
+- Cultural and environmental blocks
 
             Taboos
             Fantasy and reflection are a waste of time, lazy, even crazy
@@ -33,7 +35,8 @@
             Lack of cooperation and trust among colleagues
             Autocratic boss who values only his/her own ideas: does not reward others
             Lack of support to bring ideas into action
-* Intellectual and expressive blocks
+
+- Intellectual and expressive blocks
 
             Solving the problem using an incorrect language (verbal, mathematical, visual)—as in
             tryingto solve a problem mathematically when it can more easily be accomplished
@@ -41,7 +44,8 @@
             Inflexible or inadequate use of intellectual problem-solving strategies
             Lack of, or incorrect information
             Inadequate language skill to express and record ideas (verbally,  musically, visually, etc.)
-* Alternate thinking languages
+
+- Alternate thinking languages
 
            Visual Thinking
            Other sensory languages
@@ -51,7 +55,8 @@
            Convergence-divergence
            Deduction-induction
           Jung and the Myers Briggs test
-* Kinds of blockbusters
+
+- Kinds of blockbusters
 
           A questioning attitude
          Working on the right problem
@@ -64,17 +69,38 @@
         Maslow
         Barron
         Other paths for freeing the unconscious
-* Groups
 
-        Inadequate knowledge of the creative process and the use of group creativity   techniques.      
+- Groups
+
+        Inadequate knowledge of the creative process and the use of group creativity   techniques.
         Poor understanding of the roles of affiliation and ego needs
         Poor leadership
         Inadequate or unbalanced group membership
        Lack of proper support
-* Organizations
+
+- Organizations
 
        Too much or too little control
        Age and size
        Tradition and past success
        Inappropriate reward system and support
-       Inhibitive culture 
+       Inhibitive culture
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+    this.page.url = 'http://oshanz.github.io/til/2018/07/14/Conceptual-Blockbusting.html';
+    this.page.identifier = '2018-07-14-Conceptual Blockbusting';
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://oshanz.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//oshanz.disqus.com/count.js" async></script>
