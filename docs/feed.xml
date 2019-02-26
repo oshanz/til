@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2019-02-26T16:59:17+05:30</updated><id>http://localhost:4000/til/feed.xml</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Generator Pattern</title><link href="http://localhost:4000/til/2019/02/24/generator-pattern.html" rel="alternate" type="text/html" title="Generator Pattern" /><published>2019-02-24T00:00:00+05:30</published><updated>2019-02-24T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/02/24/generator-pattern</id><content type="html" xml:base="http://localhost:4000/til/2019/02/24/generator-pattern.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-02-24 12-25-57.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/til/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/til/" rel="alternate" type="text/html" /><updated>2019-02-26T17:10:23+05:30</updated><id>http://localhost:4000/til/feed.xml</id><title type="html">Today I Learned</title><subtitle>💖 Ruby, Elixir, NoSQL, GIT, VIM.</subtitle><entry><title type="html">Generator Pattern</title><link href="http://localhost:4000/til/2019/02/24/generator-pattern.html" rel="alternate" type="text/html" title="Generator Pattern" /><published>2019-02-24T00:00:00+05:30</published><updated>2019-02-24T00:00:00+05:30</updated><id>http://localhost:4000/til/2019/02/24/generator-pattern</id><content type="html" xml:base="http://localhost:4000/til/2019/02/24/generator-pattern.html">&lt;p&gt;&lt;img src=&quot;/til/images/Screenshot from 2019-02-24 12-25-57.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 var disqus_config = function () {
-this.page.url = 'http://oshanz.github.io/til/2019/02/24/generator-pattern.html';
-this.page.identifier = '2019-02-24-generator-pattern';
+    this.page.url = 'http://oshanz.github.io/til/2019/02/24/generator-pattern.html';
+    this.page.identifier = '2019-02-24-generator-pattern';
 };
-*/
+
 (function() {
 var d = document, s = d.createElement('script');
 s.src = 'https://oshanz.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
+
 &lt;/script&gt;
 
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
