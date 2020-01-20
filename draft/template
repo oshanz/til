@@ -1,0 +1,25 @@
+Beginning - What Are You Going To Tell Me
+
+    Set up the problem, usually in a couple of short paragraphs. This is a good place to think about the five W's—who, what, where, why, and how.
+    Try not to make your introduction too long. This is hard. An old creative writing trick is to delete the first paragraph after you finish the whole piece. It is surprising how often that makes an article feel more immediate.
+    Another nice way to start is using your intro to frame the question your article is going to answer. Imagine you are writing an article on the useState hook in React. Your intro is a good place to set up why you'd want to be doing that to begin with.
+    Often you may be writing as a way to develop your own understanding. Your intro here gives you the opportunity to lay out your questions.
+    Your intro is also your "shop window," and helps you develop your own inner voice and personal style. It's also your sales pitch: why should a reader be looking at your explanation of a useState hook?
+    Consider your audience. You can even say in your intro who this blog post is for. Let's stick with our imaginary React useState hook article for now. Is it designed for people who are hungry to know exactly how it works? Is it for those who use React on a daily basis and want to get up and running in 5 minutes? Is it for someone familiar with another web framework? Is it for a complete React beginner?
+
+Middle - The Telling
+
+    This should be the bulk of your work—at least 80%. Your beginning and end should be brief bookends for your main.
+    This is a great time to look at other sources—especially sources you admire—and how they convey this journey.
+    Try and go in one direction. Don't ping back and forward in time.
+    Good code examples can be very powerful. Don't be afraid of using code.
+    Lists can be a great way to break up text whilst also, you know, keeping it grouped together. This article relies on lists to break up the information.
+    Think about design and formatting. Try talking to a designer, if you can.
+    Contextual images are especially effective. They are great for showcasing design, UI/UX, and even quick snapshots of code running. We could use imagery, both static and animated, to show our useState hook running in the real world.
+    Diagrams (hand drawn is fine, and often preferable) can help convey complex information.
+
+End - What Did You Tell Me
+
+    Recap what you've been discussing.
+    Add some links to further resources—where might someone go if they wanted to explore this further?
+    Add your conclusion. This can be tricky.
